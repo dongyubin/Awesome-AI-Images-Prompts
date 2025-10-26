@@ -16,6 +16,17 @@
 
 1. [⁤﻿‌‍⁤﻿‌⁢⁣‌‍‬⁢⁤⁡⁤⁡‌⁢‬⁣‬‌‌⁣‍‍‌‌⁤⁣﻿‌⁣‍⁢⁡⁢⁣⁡‌‌豆包 Seedream 4.0 使用指南 - 飞书云文档](https://bytedance.larkoffice.com/docx/XwngdqdhIowfF8xhEA4cwpS2nLb)
 
+## AI生图提示词仓库
+
+### Gemini Nano-banana
+
+1. [ZHO-ZHO-ZHO/ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation/tree/main)：nano-banana 创意玩法大合集！
+2. [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images/)：收集了Nano-banana在各个任务场景下生成的令人惊艳的图片和提示词，全方位展示Google在图像生成与编辑的无限可能。希望能帮助你更好地了解 Nano-banana。快一起解锁 Nano-banana 的多图融合与创意编辑力量吧！
+
+### GPT-4o
+
+1. [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)：一个精选的 GPT-4o 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
+
 ## AI生图提示词展示案例
 
 ### Adult Coloring Book Pages（成人填色书页）
