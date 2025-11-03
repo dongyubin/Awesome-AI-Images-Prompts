@@ -1,16 +1,10 @@
 # Awesome-Images-Prompts
 适用于 Gemini Nano-banana Image、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney 等AI生图大模型的提示词
 
-|        | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 |
-| ------ | ----------- | ---- | ----------------- | ----------- |
-| 文生图 | ✅           | ✅    | ✅                 | ✅           |
-| 图生图 | ✅           | ✅    | ✅                 | ❌           |
-
-## 免费领取一个月 Perplexity Pro 会员
-
-1. 下载 [Comet浏览器](https://pplx.ai/cxxh888)
-2. 登录 Comet 并提问一个问题
-3. Windows 安装 [Comet浏览器](https://pplx.ai/cxxh888) 卡在“等待网络”的界面解决方案：[点击直达解决方案](https://www.wangdu.site/software/ai/2276.html)
+|        | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o |
+| ------ | ----------- | ---- | ----------------- | ----------- | ---------- |
+| 文生图 | ✅           | ✅    | ✅                 | ✅           | ✅          |
+| 图生图 | ✅           | ✅    | ✅                 | ❌           | ✅          |
 
 ## AI生图提示词使用教程
 
@@ -68,3 +62,70 @@ a dreamy top-down film photograph of a young beautiful East Asian woman lying on
 ```
 
 ![梦幻般美女胶片照片](./images/02.jpg)
+
+### 超写实哥特式兔子工作室肖像
+
+```
+"prompt_title": "Hyperrealistic Gothic Bunny Studio Portrait",
+"image_description": "An ultra-photorealistic, high-resolution studio portrait of a female subject in a gothic-inspired bunny costume, featuring intricate lace ears, a structured corset, and delicate hosiery. The subject is posed on the floor, exuding an alluring and sophisticated aura under precise studio lighting.",
+"subject": {
+"gender": "female",
+"appearance": "Young adult with a flawless, luminous complexion. **Extreme micro-detail rendering on skin, showing subtle pores, fine vellus hairs, accurate light interaction (sub-surface scattering), and realistic skin texture.**",
+"facial_features": "Smooth, clear skin. Her eyes are large, dark, and captivating, looking directly into the camera with a **confident and slightly seductive expression**. Lips are full, with a matte red or deep berry lipstick that shows micro-creases. Defined eyebrows and subtle contouring.",
+"hair_style": "Long, flowing, wavy black hair, cascading over her shoulders and back. **Hair must show individual strands, realistic volume, high-gloss reflections, and subtle flyaways.**",
+"makeup": "Dramatic and precise. Sharp, winged black eyeliner, full, dark eyelashes (possibly individual lash extensions), subtle glitter or shimmer on eyelids. Contoured cheeks. Flawless foundation and blush.",
+"attire": {
+"headwear": "Intricate **black lace bunny ears headband**. The lace should have visible patterns, delicate wire structure, and possibly small faux floral or ribbon accents. Realistic light interaction with the lace.",
+"neck_accessories": "A simple, fitted black velvet or leather choker necklace.",
+"main_outfit": "A highly detailed **black strapless corset dress or top and skirt ensemble**. The corset should be structured, showing **visible boning and lacing details** (possibly satin or leather laces). Fabric should be a mix of matte black leather/faux leather and textured, ruffled black tulle or chiffon for the skirt. **Emphasis on realistic fabric folds, textures, and subtle sheen.**",
+"hosiery": "Sheer black thigh-high stockings with a delicate lace top band, clearly visible on her upper thigh. **Stockings must show realistic transparency and fabric stretch over skin.**",
+"footwear": "Black pointed-toe high heels with ankle straps. The material should be a realistic matte or patent leather, showing accurate reflections and shoe construction."
+}
+},
+"pose": {
+"description": "The subject is kneeling on a flat, light-colored studio floor, leaning slightly forward. Her left hand is placed on the floor beside her left knee, fingers slightly spread. Her right arm is gently resting on her right thigh. Her body is slightly twisted, creating an alluring silhouette. **Exact replication of the confident and poised pose.**",
+"camera_angle": "Medium shot, eye-level angle, slightly looking down at the subject. The camera is positioned to capture her full body from the mid-thigh up, with enough space around her to establish the studio environment.",
+"composition": "Centered composition, vertical orientation. The subject fills approximately 70-80% of the frame, with subtle negative space around her. **Sharp focus on the subject, with a very shallow depth of field creating a soft bokeh in the background.**"
+},
+"setting": {
+"location": "Professional indoor photo studio.",
+"background_elements": "Seamless, plain light gray or off-white backdrop, extending from the floor to the wall, creating a clean, infinite background. **Subtle, soft gradient in the background due to lighting falloff.**"
+},
+"lighting_and_atmosphere": {
+"key_light_source": "Softbox or parabolic diffuser from the front-left, creating soft, even illumination with subtle directional shadows to define contours.",
+"fill_light": "Subtle fill light from the front-right to reduce harsh shadows on the right side of her face and body.",
+"back_light": "A subtle hair light or rim light from the rear-right to create separation from the background and add definition to her hair and shoulders.",
+"highlights_shadows": "Soft, creamy highlights on skin, hair, and corset material. Deep but soft shadows defining facial structure and body contours. **Accurate light falloff and realistic specular reflections on materials.**",
+"photographic_realism": "Extreme micro-detail, sub-surface scattering on skin, realistic fabric textures (lace, leather, tulle), **cinematic studio lighting**, crisp focus on eyes, perfect white balance, neutral color grading, **ultra-realistic material rendering (PBR - Physically Based Rendering).**"
+},
+"style_and_camera": {
+"photographic_style": "High-fashion portraiture, hyperrealistic studio photography, fine art glamour.",
+"camera_type": "High-end full-frame mirrorless camera (e.g., Sony A1, Canon R5) with a fast prime lens (e.g., 50mm f/1.2 or 85mm f/1.4).",
+"camera_values": "ISO 100, f/1.8, 1/160 sec. **These values contribute to shallow depth of field, sharp detail, and clean image quality.**",
+"resolution_quality": "8K resolution, ultra-photorealistic, extreme detail on all elements. **Masterpiece quality render, production quality image.**"
+},
+"negative_prompt_suggestions": [
+"blurry", "low resolution", "deformed", "harsh lighting", "flat background", "bad anatomy",
+"cartoon", "illustration", "painting", "text", "watermark", "oversaturated", "poor composition",
+"unrealistic skin", "plastic texture", "missing details"
+]
+}
+```
+
+### 3D Twitter Profile Card（3D 推特个人资料卡片）
+
+[shirish](https://x.com/shiri_shh/status/1984196161784422790)
+
+1. 截取您的 Twitter 个人资料屏幕截图。 
+
+2. 打开 ChatGPT 
+
+3. 粘贴您的屏幕截图和以下提示词：
+
+   ```markdown
+   Create a hyper-realistic 3D render of a transparent twitter profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edges in pink, purple, and orange gradient inspired by the twitter color palette. Display the following profile information on the card using modern, minimal sans-serif typography.
+   ```
+
+   ```markdown
+   制作一张超逼真的透明推特个人资料卡的3D渲染图，设计灵感源自未来主义的玻璃身份识别卡，可轻柔地夹在两指之间。卡片应为圆角矩形，材质为透明光面玻璃或亚克力，边缘带有粉色、紫色和橙色渐变的霓虹灯效果，灵感来自推特的配色方案。使用现代简约的无衬线字体在卡片上展示以下个人资料信息。
+   ```
