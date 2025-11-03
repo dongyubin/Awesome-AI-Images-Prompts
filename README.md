@@ -114,6 +114,8 @@ a dreamy top-down film photograph of a young beautiful East Asian woman lying on
 
 ### 3D Twitter Profile Card（3D 推特个人资料卡片）
 
+![3D Twitter Profile Card-ChatGPT、Gemini Nano Banana](https://cdn.wwkejishe.top/wp-cdn-02/2025/20251101141400799.webp)
+
 [shirish](https://x.com/shiri_shh/status/1984196161784422790)
 
 1. 截取您的 Twitter 个人资料屏幕截图。 
