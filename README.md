@@ -20,6 +20,7 @@
 ### GPT-4o
 
 1. [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)：一个精选的 GPT-4o 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
+1. [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts)：GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts
 
 ## AI生图提示词展示案例
 
@@ -131,3 +132,103 @@ a dreamy top-down film photograph of a young beautiful East Asian woman lying on
    ```markdown
    制作一张超逼真的透明推特个人资料卡的3D渲染图，设计灵感源自未来主义的玻璃身份识别卡，可轻柔地夹在两指之间。卡片应为圆角矩形，材质为透明光面玻璃或亚克力，边缘带有粉色、紫色和橙色渐变的霓虹灯效果，灵感来自推特的配色方案。使用现代简约的无衬线字体在卡片上展示以下个人资料信息。
    ```
+
+### 3D chibli style kawaii sticker（3D 千纸鹤风格卡哇伊贴纸）
+
+[Shreya Yadav 作者原贴](https://x.com/ShreyaYadav___/status/1985738257708302430)
+
+- 使用 AI 模型：ChatGPT
+
+```markdown
+Create a 3D kawaii 10:16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the attached image for reference. Each sticker has a white border and includes a speech bubble with phrases like "Goodmorning", "Lunch kana", "Huh", "Hugs", "Thank you", "Goodnight", "You're the best" "miss you" "mwah 😙" "good job" and "Ingat ka". Set on a soft white-to-pastel blue gradient background for a fun, positive vibe.
+```
+
+![3D chibli style kawaii sticker（](https://pbs.twimg.com/media/G47CaeYXoAA33NX?format=jpg&name=large)
+
+### 3D cartoon girl
+
+- 使用 AI 模型：Gemini Nano Banana
+
+```markdown
+cheerful 3D cartoon girl with long dark hair, white flower hair clip, expressive brown eyes, soft rounded features; wearing a mix of cute outfits (white off-shoulder top, yellow sweater, purple tee, green dress, blue pajamas, coral shirt, pink blazer); each pose conveys emotions like waving, hugging, clapping, sleeping, and giving a thumbs up
+Setting: bright neutral background in a 3×3 grid sticker layout, each labeled with phrases — “Goodmorning,” “Lunch kana,” “Huh?,” “Hugs,” “Thank you,” “Goodnight,” “You’re the best,” “miss you,” and “good job”; with an elegant overlay at the top center reading “Thank You 900 Followers” in a friendly, modern font
+Lighting: soft diffuse daylight, balanced exposure emphasizing 3D shading and gloss
+Camera: straight-on, symmetrical framing, close-up shot for detail clarity
+Style: kawaii 3D emoji-sticker illustration, modern gratitude aesthetic
+Color Palette: warm and pastel tones — cream, blush pink, sage green, sky blue, peach, ivory
+Quality: ultra-detailed, high-resolution, photorealistic 3D render
+Reference: uploaded face
+Negative Prompt: distorted text, blur, watermark, overexposure, bad anatomy
+```
+
+![3D cartoon girl](https://pbs.twimg.com/media/G47iYS4WoAALppW?format=jpg&name=900x900)
+
+### Raw photoreal high fidelity Gril
+
+[作者原贴](https://x.com/IamEmily2050/status/1985682978182480251)
+
+- 使用 AI 模型：Google Gemini Flash 2.5 Nano banana 
+
+```markdown
+{
+    "style_mode": "raw_photoreal_high_fidelity",
+    "look": "K-Pop idol aesthetic, flawless complexion, high-resolution digital photography, trendy",
+    "camera": {
+      "vantage": "slightly high angle (selfie perspective), direct address",
+      "framing": "extreme close-up (ECU), tight framing on the face and shoulders",
+      "lens_behavior": "portrait lens (e.g., 85mm prime), extremely shallow depth of field (DoF), sharp focus on the eyes",
+      "sensor_quality": "high fidelity, no digital noise"
+    }
+  },
+  "scene": {
+    "environment": {
+      "setting": "indoor studio or simple interior",
+      "lighting": "soft, even beauty lighting (e.g., large softbox or beauty dish), minimizing shadows, creating clear catchlights in the eyes, emphasizing glossy highlights"
+    },
+    "subject": {
+      "description": "young East Asian female, K-Pop idol styling",
+      "hair": "long, dark brown, wavy, glossy finish",
+      "expression": {
+        "mood": "playful, confident, slightly sultry",
+        "action": "looking directly into the lens, mouth slightly open, tongue slightly sticking out over the lower lip"
+      },
+      "makeup": {
+        "style": "contemporary K-beauty trends",
+        "complexion": "flawless, 'glass skin' effect, dewy/glossy finish, realistic micro-texture",
+        "cheeks": "rosy blush, high application",
+        "lips": "glossy, pink tint"
+      },
+      "attire": {
+        "top": "grey pinstriped halter top, structured design",
+        "details": "white contrasting collar lapel with silver snap buttons and circular metal hardware"
+      },
+      "accessories": {
+        "hair_clip": "decorative silver/rhinestone clip on her left side",
+        "earrings": "dangling silver earrings (heart motif)"
+      }
+    },
+    "background": {
+      "description": "plain, neutral grey or white wall, blurred (bokeh)"
+    }
+  },
+  "aesthetic_controls": {
+    "render_intent": "high-quality digital photograph suitable for promotional material or social media",
+    "material_fidelity": [
+      "realistic skin micro-texture (pores, gloss, makeup interaction)",
+      "individual hair strand detail",
+      "fabric texture of the pinstripe material",
+      "metallic shine of accessories"
+    ],
+    "color_grade": {
+      "overall": "neutral, slightly warm, vibrant skin tones, high clarity",
+      "contrast": "balanced"
+    }
+  },
+  "negative_prompt": {
+    "forbidden_elements": ["skin imperfections", "blemishes", "wrinkles", "harsh shadows", "textured/matte skin", "dry lips", "outdoor setting", "distorted features", "motion blur", "digital artifacts"],
+    "forbidden_style": ["anime", "painting", "illustration", "CGI render", "low resolution", "gritty realism", "vintage photography", "uncanny valley", "overly airbrushed/plastic skin"]
+  }
+}
+```
+
+![Raw photoreal high fidelity Gril](https://pbs.twimg.com/media/G46QJBLbYAA9JMw?format=jpg&name=large)
