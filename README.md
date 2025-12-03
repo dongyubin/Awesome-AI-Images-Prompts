@@ -1,10 +1,14 @@
 # Awesome-Images-Prompts
 适用于 Gemini Nano-banana Image、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney 等AI生图大模型的提示词
 
-|        | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o |
-| ------ | ----------- | ---- | ----------------- | ----------- | ---------- |
-| 文生图 | ✅           | ✅    | ✅                 | ✅           | ✅          |
-| 图生图 | ✅           | ✅    | ✅                 | ❌           | ✅          |
+|        | Nano Banana Pro | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o |
+| ------ | --------------- | ----------- | ---- | ----------------- | ----------- | ---------- |
+| 文生图 | ✅               | ✅           | ✅    | ✅                 | ✅           | ✅          |
+| 图生图 | ✅               | ✅           | ✅    | ✅                 | ❌           | ✅          |
+
+## 免费使用Nano Banana Pro教程
+
+[教程：免费领1个月 Gemini 3、Nano Banana Pro和Veo 3会员](https://www.wangdu.site/fuliyouhui/2291.html)
 
 ## AI生图提示词使用教程
 
@@ -23,6 +27,42 @@
 1. [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts)：GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts
 
 ## AI生图提示词展示案例
+
+### 清晰、准确、工程风格的爆炸图
+
+- 使用生图模型：Nano Banana Pro 
+
+```markdown
+Exploded isometric teardown diagram of [Put the name of the Object you are exploding]. Separate every component along a clear vertical axis with precise spacing. Render each part with accurate proportions and clean geometry. Include: outer casings, inner frame, mechanical parts, electrical modules, PCB, chips, connectors, buttons, switches, sensors, battery, screws. Use neutral lighting and a plain white background. Add thin uniform annotation lines pointing to each part with short, readable labels placed neatly around the image. No artistic style. No texture exaggeration. No distortion. Only a sharp, professional engineering breakdown similar to a hardware service manual.
+```
+
+[作者原贴](https://x.com/beginnersblog1/status/1995464792019202140)
+
+### 多视角主角图
+
+- 使用生图模型：Nano Banana Pro 
+
+```markdown
+ 分析输入图像的整个构图。识别所有存在的关键主体（无论是单人、群体/情侣、车辆还是特定物体）及其空间关系/互动。 生成一个连贯的 3x3 网格“电影印样（Contact Sheet）”，展示在同一环境中完全是这些主体的 9 个不同镜头。 你必须调整标准的电影镜头类型以适应内容（例如，如果是群体，保持群体在一起；如果是物体，构图包含整个物体）： 第 1 行（建立背景）： 大远景 (ELS)： 主体在广阔的环境中显得很小。 全景 (LS)： 完整的主体或群体从上到下可见（从头到脚 / 从车轮到车顶）。 中远景 (美式镜头/四分之三)： 构图从膝盖以上（针对人物）或 3/4 视角（针对物体）。 第 2 行（核心覆盖）： 4. 中景 (MS)： 构图从腰部以上（或物体的中心核心）。聚焦于互动/动作。 5. 中特写 (MCU)： 构图从胸部以上。主要主体的亲密构图。 6. 特写 (CU)： 紧凑构图于脸部或物体的“正面”。 第 3 行（细节与角度）： 7. 大特写 (ECU)： 强烈聚焦于关键特征（眼睛、手、标志、纹理）的微距细节。 8. 低角度镜头 (仰视/虫眼)： 从地面仰望主体（壮观/英雄感）。 9. 高角度镜头 (俯视/鸟瞰)： 从上方俯瞰主体。 确保严格的一致性：所有 9 个面板中是相同的人物/物体、相同的衣服和相同的光照。景深应逼真地变化（特写镜头中的背景虚化）。 一个包含 9 个面板的专业 3x3 电影故事板网格。 该网格以全面的焦距范围展示输入图像中的特定主体/场景。 顶行： 宽广环境镜头，全视图，3/4 剪辑（膝上景）。 中间行： 腰部以上视图，胸部以上视图，脸部/正面特写。 底行： 微距细节，低角度，高角度。 所有帧均具有照片般逼真的纹理，一致的电影级调色，以及针对所分析的主体或物体特定数量的正确构图。
+```
+
+
+
+```
+Generate a 3x3 cinematic storyboard grid.  
+One consistent female model, same outfit, same lighting.  
+Theme: French high-end double-breasted trench coat.  
+Camera shots sequence:  
+Row1: ELS, LS, MLS  
+Row2: MS, MCU, CU  
+Row3: ECU (details), Low Angle Shot, High Angle Shot  
+Ultra-detailed face, natural skin texture, clear pupil highlights.  
+Premium fashion editorial tone, clean background, luxury e-commerce style.
+```
+
+[作者原贴](https://x.com/LiEvanna85716/status/1995842040731762845)
+
+![日系朦胧感美女](./images/03.jpg)
 
 ### Adult Coloring Book Pages（成人填色书页）
 
