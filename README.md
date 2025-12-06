@@ -8,7 +8,8 @@
 
 ## 免费使用Nano Banana Pro教程
 
-[教程：免费领1个月 Gemini 3、Nano Banana Pro和Veo 3会员](https://www.wangdu.site/fuliyouhui/2291.html)
+- [教程：免费领1个月 Gemini 3、Nano Banana Pro和Veo 3会员](https://www.wangdu.site/fuliyouhui/2291.html)
+- [12个免费白嫖 Nano Banana Pro 的方法，亲测有用](https://www.wangdu.site/software/ai/2288.html)
 
 ## AI生图提示词使用教程
 
