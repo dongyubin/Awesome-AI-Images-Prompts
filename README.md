@@ -279,3 +279,77 @@ Negative Prompt: distorted text, blur, watermark, overexposure, bad anatomy
 ```
 
 ![Raw photoreal high fidelity Gril](https://pbs.twimg.com/media/G46QJBLbYAA9JMw?format=jpg&name=large)
+
+### 年轻女性单人半身近景肖像
+
+[作者原贴](https://x.com/qisi_ai/status/1999375955622789516)
+
+```markdown
+一、画面主题
+1 人物类型：年轻女性单人半身近景肖像
+2 姿态视角：侧身回眸，肩背朝向镜头外侧，头部微转看向镜头
+3 取景范围：头部到上背部与肩部，人物占画面主体，留少量背景空间
+4 画面比例：竖幅，人物略偏左，眼睛位于上三分线附近
+
+二、五官与表情
+1 表情气质：清冷克制，略带疏离感，不露齿
+2 眼部特征：大眼比例，睫毛清晰，眼神聚焦镜头，眼下轻微卧蚕与柔和阴影
+3 唇部特征：饱满水润，边缘柔和，带明显高光与果冻质感
+4 肤感特征：极致细腻平滑，毛孔弱化，整体偏白净通透
+
+三、妆容风格
+1 底妆：高遮瑕与柔雾磨皮结合，局部保留自然高光
+2 腮红：从颧骨到眼下扩散的粉色晕染，轻薄但可见
+3 眼妆：细致上眼线与自然加深眼尾，浅棕灰系过渡，整体干净
+4 唇妆：粉豆沙到浅玫瑰的渐变，叠加强光泽感
+
+四、发型与配饰
+1 发型：深色直发，低马尾或低位扎发，头顶蓬松自然
+2 刘海：中分，细碎发丝垂落两侧贴近脸颊
+3 眼镜：金属细框透明镜片，椭圆偏方的镜框，镜腿有金属装饰
+4 耳饰：耳廓位置小型耳钉，低调点缀
+
+五、服装与肌肤细节
+1 服装：红色细肩带，露背设计，肩带在画面右侧清晰可见
+2 皮肤光泽：肩背处有柔和反光，呈现细腻奶油肌质感
+
+六、光线与影调
+1 主光方向：左前上方柔光，覆盖面大，阴影非常软
+2 补光：正前方弱补光，压低对比度，使面部几乎无硬阴影
+3 高光控制：鼻梁、上唇、下唇与眼镜边缘有小面积亮点高光
+4 整体影调：低对比、柔雾感、层次细腻，暗部不死黑
+
+七、背景与环境
+1 背景：纯净单色浅粉灰渐变墙面，无纹理无杂物
+2 景深：背景强虚化或本身极简，使人物轮廓更突出
+3 氛围：干净、静谧、带轻微甜冷感
+
+八、镜头与画面质感模拟
+1 焦距感觉：中长焦近景压缩感，脸部比例自然不夸张
+2 景深表现：眼睛清晰，耳后与背景明显虚化
+3 清晰度：五官边缘清晰但不过锐，整体偏柔
+4 噪点：几乎无颗粒，呈现干净的商业人像质感
+
+九、后期处理要点
+1 磨皮：强但自然，保留少量面部结构与阴影过渡
+2 色彩：整体偏冷白肤色，腮红与唇色偏粉，红肩带饱和但不过分
+3 光晕：轻微柔光扩散效果，让高光更圆润
+4 统一性：控制对比与锐度，保持通透、柔和、清洁的画面一致性
+
+十、反向提示词
+1 画面问题：过度锐化、强对比、硬阴影、背景杂乱、噪点颗粒明显
+2 人物问题：夸张表情、露齿大笑、皮肤粗糙毛孔明显、油光满面、脸部畸变
+3 风格偏离：浓重舞台妆、强烈复古色偏、复杂服饰、夸张饰品、强烈环境光源干扰
+```
+
+![年轻女性单人半身近景肖像](images/04.jpg)
+
+### 圣诞写真
+
+[作者原贴](https://x.com/LiEvanna85716/status/2000530737842557269)
+
+```markdown
+Professional studio portrait photography, Christmas winter theme, white studio background.  Young Asian woman, age 20-23, beautiful delicate features: - Large expressive eyes with double eyelids - Elegant facial features, high cheekbones - Natural makeup: soft pink blush, natural lip color - Shoulder-length dark brown hair - Fair porcelain skin with realistic texture (visible pores)  Outfit: - Bright red cable knit beanie - Bright red chunky wool scarf - Black wool coat  Studio setup: Pure white seamless background, professional soft lighting, snowflakes falling on hair/beanie/scarf  Technical: 85mm lens, f/1.8-2.8, natural soft studio lighting, realistic skin texture, high-end fashion portrait quality  Mood: Natural, warm, gentle expression, serene and contemplative
+```
+
+![圣诞写真](https://cdn.wwkejishe.top/wp-cdn-02/2025/20251216131342996.webp)
