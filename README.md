@@ -370,6 +370,14 @@ turn this photo into a character figure. Behind it, place a box with the charact
 
 ![nano banana 手办提示词](images/05.jpg)
 
+### 图片变手机透视图
+
+```markdown
+一只手拿着智能手机，背景是有落叶和绿色长椅的秋季公园。手机屏幕上显示着一张**{主体}的生动照片。手机屏幕内的背景景观与手机后方真实的虚化背景完美对齐，创造出一种透明的错觉。屏幕上画有白色的手写文字注释和箭头，指向{主体}**的特征。柔和的自然光，照片级真实感，4k分辨率，高细节，创意社交媒体摄影风格。3D 弹出效果：上半身从屏幕中浮现，下半身留在用户界面内。{主体}**的图片如图，保留面部和外形特征不做任何改变。
+```
+
+![图片变手机透视图](https://pbs.twimg.com/media/G80hCt7bkAAKtlj?format=jpg&name=900x900)
+
 ## 圣诞节相关提示词
 
 - Christmas Prompts for Gemini
@@ -508,3 +516,36 @@ Create a warm, festive portrait of a smiling man holding a large snow globe, kee
 A solo holiday portrait in a red velvet dress and gold beret set in a softly blurred snowy forest with fairy lights - festive, elegant, dreamy.
 ```
 
+### Christmas City Books
+
+- [作者原帖](https://x.com/TechieBySA/status/1994740862656380961)
+
+```markdown
+A highly detailed, magical miniature winter scene of [CITY] emerging from the open pages of an old vintage book, 1080x1080 square format. The book lies on a wooden table with worn spine, aged pages, scattered coins, ornaments, and a vintage map. The visible page has “[CITY]” elegantly written in vintage typography at the top. Soft snowfall, cold winter daylight from a nearby window, delicate bokeh snow particles. In the center: iconic [CITY] landmarks covered in fresh snow, glowing with warm festive lights. Miniature Christmas market with wooden stalls, steaming drinks, food vendors, people in winter clothes leaving footprints. Snow-covered trees create a magical winter mood. Soft golden illumination, cold diffused daylight mixed with warm festive lights, cinematic shallow depth of field, hyper-detailed miniature textures, realistic snow buildup, glowing particles. Photorealistic, miniature scale, 8k, 1080x1080 square composition
+```
+
+![Christmas City Books](https://pbs.twimg.com/media/G66-PcvXEAAckU-?format=jpg&name=medium)
+
+### 圣诞节4宫格
+
+- [作者原贴](https://x.com/Adam38363368936/status/2003025725675204789)
+
+注意要点
+
+1. 1.人物脸部特征不要发生任何变化（Use the face without any change） 
+2. 右上和右下图有关键连接，而不是独立的。
+
+```
+Use the face without any  change.A high-quality 2x2 creative photo collage of a young woman with long wavy black hair , posing inside cardboard boxes for a Christmas-themed challenge. She wears a cream, red, and green Fair Isle knit sweater.
+Layout & Interaction (Crucial):The right side features a continuous action across two panels. Red wine is poured from the top-right panel and flows vertically down into the bottom-right panel.
+Panel Details:
+
+Top Left: She blows artificial snow from her palms towards the camera.
+Bottom Left: She holds glowing fairy lights and a red bauble, smiling warmly.
+Top Right: She leans on the box edge, holding a wine bottle, pouring red wine downwards so the liquid stream exits the bottom of this frame.
+Bottom Right: She is positioned below, holding a wine glass that catches the stream of wine pouring down from the panel above. She is looking up, watching the wine flow into her glass.
+
+Style: Creative box challenge photography, seamless cross-panel interaction, festive mood, soft studio lighting, ultra-realistic textures.
+```
+
+![圣诞节4宫格](https://pbs.twimg.com/media/G8wsmbracAEoQKc?format=jpg&name=large)
