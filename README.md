@@ -1,5 +1,5 @@
 # Awesome-Images-Prompts
-适用于 Awesome Gemini Nano-banana Pro Image、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512 等AI生图大模型的提示词
+适用于 Awesome Gemini Nano-banana Pro Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512 等AI生图大模型的提示词
 
 |        | Nano Banana Pro | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 |
 | ------ | --------------- | ----------- | ---- | ----------------- | ----------- | ---------- | --------------- |
@@ -41,6 +41,12 @@
 14. [‍⁡‍‍⁤‍⁡⁢﻿﻿‍‍‌‬⁤‍‌‌⁢⁡⁣‬‬⁣‍‍⁤⁡⁡‌﻿⁢‌⁤﻿﻿⁤⁢⁡‌⁢⁢⁡‬⁡⁡【教程】Nano Banana Pro超强玩法全盘点-Xuan酱-1125 - 飞书云文档](https://my.feishu.cn/docx/IKO3dWCeyobZ5CxWE18cV40xnth)
 15. [‌⁤‌⁤⁢⁣⁣⁤‬‬‌⁣⁣﻿⁢⁢﻿‍‬⁡‌‌‬﻿‌⁤⁡⁣‍‬⁣﻿⁡⁡⁤‍⁡⁣⁤‌‬⁡‬⁤Nano Banana Pro玩法大全+免费入口汇总 - 飞书云文档](https://my.feishu.cn/wiki/RJ4RwiI0BiFiwnkk9DBcLaasnJh)
 16. [Nano Banana 图片生成  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/image-generation?hl=zh-cn&authuser=2)：官方文档
+17. [Nano Banana Prompts Gallery - Free AI Image Prompts for Gemini | LocalBanana](https://www.localbanana.io/)
+18. [AI Prompt – TiHUBB 时光栈](https://tihubb.com/ai-prompt/)
+19. [Free Image Prompt Library for ChatGPT, Midjourney, Nano Banana | PromptWall](https://www.chatgptimage.art/)
+20. [Nano Banana Prompt Library - 100+ Expert-Curated AI Prompt Examples](https://nanobanana-showcase.com/)
+21. [Nano Banana Prompt Examples - AI Image Generation Techniques](https://nanobananaart.net/prompts)
+22. [40+ Nano Banana Pro Prompts (Copy & Paste) for Gemini](https://www.fotor.com/blog/nano-banana-model-prompts/)：热门风格合集
 
 ### GPT-4o
 
@@ -432,6 +438,26 @@ Transform the character into the classic “Crayon Shin-chan” anime style. Use
 ```
 
 ![蜡笔小新头像](images/07.png)
+
+### Fake Window Projector
+
+Creating your own fake window scene has never been easier thanks to AI. To generate realistic and visually stunning projections, you can use this universal AI prompt formula:
+
+```markdown
+“[window frame style] window view of [scene], lighting: [time of day], mood: [atmosphere], details: [textures, realism], ultra-realistic, projection-friendly, high resolution.”
+
+“[窗框风格] [场景]的窗户视图，照明：[时间]，氛围：[氛围]，细节：[纹理，真实感]，超写实，适合投影，高分辨率。”
+```
+
+Christmas Snowy Pine Forest（圣诞雪松林）示例提示词：
+
+```markdown
+Snowy pine forest outside window, soft Christmas lights glowing on trees, morning light, cozy and peaceful, realistic textures, projection-friendly framing.
+
+窗外的雪松林，树上柔和的圣诞灯光，晨光，温馨宁静，质感逼真，适合投影的构图。
+```
+
+来源：[10 Stunning Fake Window Projector Ideas Created With AI Art Generators](https://imini.com/zh/blogs/10-stunning-fake-window-projector-ideas)
 
 ## 圣诞节相关提示词
 
