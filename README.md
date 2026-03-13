@@ -1,10 +1,12 @@
 # Awesome-Images-Prompts
-适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512 等AI生图大模型的提示词
+适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512、Seedance 2.0 等AI生图大模型的提示词
 
-|        | Nano Banana Pro/2 | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 |
-| ------ | ----------------- | ----------- | ---- | ----------------- | ----------- | ---------- | --------------- |
-| 文生图 | ✅                 | ✅           | ✅    | ✅                 | ✅           | ✅          | ✅               |
-| 图生图 | ✅                 | ✅           | ✅    | ✅                 | ❌           | ✅          | ✅               |
+|          | Nano Banana Pro/2 | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 | Seedance 2.0 |
+| -------- | ----------------- | ----------- | ---- | ----------------- | ----------- | ---------- | --------------- | ------------ |
+| 文生图   | ✅                 | ✅           | ✅    | ✅                 | ✅           | ✅          | ✅               |              |
+| 图生图   | ✅                 | ✅           | ✅    | ✅                 | ❌           | ✅          | ✅               |              |
+| 文生视频 |                   |             |      |                   |             |            |                 | ✅            |
+| 图生视频 |                   |             |      |                   |             |            |                 | ✅            |
 
 ## 免费使用 Nano Banana Pro 教程
 
@@ -51,6 +53,10 @@
 
 1. [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)：一个精选的 GPT-4o 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
 1. [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts)：GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts
+
+## Seedance 2.0 生成视频提示词仓库
+
+- [Seedance 2.0 提示词 - 高信噪比 AI 视频提示词库](https://youmind.com/zh-CN/seedance-2-0-prompts)（使用 [此链接注册Youmind](https://youmind.com/invite/6JGI8C) 赠送 200 积分）
 
 ## AI生图提示词展示案例
 
