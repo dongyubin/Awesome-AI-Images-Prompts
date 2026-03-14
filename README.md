@@ -13,6 +13,7 @@
 - [教程：免费领1个月 Gemini 3、Nano Banana Pro和Veo 3会员](https://www.wangdu.site/fuliyouhui/2291.html)
 - [12个免费白嫖 Nano Banana Pro 的方法，亲测有用](https://www.wangdu.site/software/ai/2288.html)
 - [2026年1月最全Gemini学生优惠申请指南及问题：免费获取一年 Google AI Pro](https://www.wangdu.site/course/2303.html)：截止到**2026年1月31日**
+- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户免费赠送 4000 积分
 
 ## 付费 Nano Banana Pro
 
