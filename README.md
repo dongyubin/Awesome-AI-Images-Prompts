@@ -60,10 +60,21 @@
 1. [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)：一个精选的 GPT-4o 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
 1. [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts)：GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts
 
-## Seedance 2.0 生成视频提示词仓库
+## Seedance 2.0 
+
+### Seedance 2.0 免费体验
+
+| 平台   | 地址                                                        | 说明                   |
+| ------ | ----------------------------------------------------------- | ---------------------- |
+| 即梦   | [https://jimeng.jianying.com](https://jimeng.jianying.com/) | 网页版，全量上线       |
+| 小云雀 | [https://xyq.jianying.com](https://xyq.jianying.com/)       | App 下载，开放所有用户 |
+| 豆包   | 下载 App                                                    | 部分用户灰度测试       |
+
+### Seedance 2.0 生成视频提示词仓库
 
 - [Seedance 2.0 提示词 - 高信噪比 AI 视频提示词库](https://youmind.com/zh-CN/seedance-2-0-prompts)（使用 [此链接注册Youmind](https://youmind.com/invite/6JGI8C) 赠送 200 积分）
 - [Seedance 2.0 Prompts - 高质量AI视频生成提示词与示例 - Atlas Cloud](https://www.atlascloud.ai/zh/seedance-2-prompt)（使用[此链接注册](https://www.atlascloud.ai?ref=GBD3AQ)充值可获取优惠）
+- [liangdabiao/make-prompt-seedance2](https://github.com/liangdabiao/make-prompt-seedance2): 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 | 带货广告| TVC广告
 
 ## AI生图提示词展示案例
 
