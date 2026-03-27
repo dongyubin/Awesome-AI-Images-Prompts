@@ -15,9 +15,14 @@
 - [2026年1月最全Gemini学生优惠申请指南及问题：免费获取一年 Google AI Pro](https://www.wangdu.site/course/2303.html)：截止到**2026年1月31日**
 - [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户免费赠送 4000 积分
 
-## 付费 Nano Banana Pro
+## 付费 Nano Banana Pro（免费体验）
+
+尝鲜的可以用免费积分，觉得好用可以续费会员。
 
 - [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费生成 1 次
+- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户赠送 4000 积分
+- [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
+- [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
 
 ## AI生图提示词使用教程
 
@@ -58,6 +63,7 @@
 ## Seedance 2.0 生成视频提示词仓库
 
 - [Seedance 2.0 提示词 - 高信噪比 AI 视频提示词库](https://youmind.com/zh-CN/seedance-2-0-prompts)（使用 [此链接注册Youmind](https://youmind.com/invite/6JGI8C) 赠送 200 积分）
+- [Seedance 2.0 Prompts - 高质量AI视频生成提示词与示例 - Atlas Cloud](https://www.atlascloud.ai/zh/seedance-2-prompt)（使用[此链接注册](https://www.atlascloud.ai?ref=GBD3AQ)充值可获取优惠）
 
 ## AI生图提示词展示案例
 
