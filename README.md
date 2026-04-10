@@ -23,6 +23,7 @@
 - [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户赠送 4000 积分
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
+- [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
 
 ## AI生图提示词使用教程
 
@@ -60,6 +61,12 @@
 
 1. [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)：一个精选的 GPT-4o 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
 1. [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts)：GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts
+
+## 常用工具
+
+### 去水印
+
+1. [Voyager](https://voyager.nagi.fun/)（Chrome插件、[Github开源地址](https://github.com/Nagi-ovo/gemini-voyager)）：NanoBanana 水印去除
 
 ## Seedance 2.0 
 
