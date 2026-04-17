@@ -17,6 +17,8 @@
 
 ## 付费 Nano Banana Pro（免费体验）
 
+### 网站应用
+
 尝鲜的可以用免费积分，觉得好用可以续费会员。
 
 - [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费生成 1 次
@@ -24,6 +26,10 @@
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
 - [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
+
+### API 开发使用
+
+- [Kie](https://kie.ai?ref=1b87846a567f5c45eced7acdc284af99)：支持AI视频（Seedance 2.0）、AI生图（Nano Banana Pro）、AI音乐（Suno）、LLM AI 聊天
 
 ## AI生图提示词使用教程
 
@@ -67,6 +73,12 @@
 ### 去水印
 
 1. [Voyager](https://voyager.nagi.fun/)（Chrome插件、[Github开源地址](https://github.com/Nagi-ovo/gemini-voyager)）：NanoBanana 水印去除
+
+## Skills
+
+支持 Claude Code、OpenClaw
+
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)：小红书图片卡片系列生成器、专业信息图生成器、从内容生成专业的幻灯片图片、知识漫画创作器、智能文章插图技能
 
 ## Seedance 2.0 
 
