@@ -1,12 +1,12 @@
 # Awesome-Images-Prompts
-适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512、Seedance 2.0 等AI生图大模型的提示词
+适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512、Seedance 2.0、GPT-Image-2 等AI生图大模型的提示词
 
-|          | Nano Banana Pro/2 | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 | Seedance 2.0 |
-| -------- | ----------------- | ----------- | ---- | ----------------- | ----------- | ---------- | --------------- | ------------ |
-| 文生图   | ✅                 | ✅           | ✅    | ✅                 | ✅           | ✅          | ✅               |              |
-| 图生图   | ✅                 | ✅           | ✅    | ✅                 | ❌           | ✅          | ✅               |              |
-| 文生视频 |                   |             |      |                   |             |            |                 | ✅            |
-| 图生视频 |                   |             |      |                   |             |            |                 | ✅            |
+|          | Nano Banana Pro/2 | Nano-banana | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 | Seedance 2.0 | **GPT**-**Image**-2 |
+| -------- | ----------------- | ----------- | ---- | ----------------- | ----------- | ---------- | --------------- | ------------ | ------------------- |
+| 文生图   | ✅                 | ✅           | ✅    | ✅                 | ✅           | ✅          | ✅               |              | ✅                   |
+| 图生图   | ✅                 | ✅           | ✅    | ✅                 | ❌           | ✅          | ✅               |              | ✅                   |
+| 文生视频 |                   |             |      |                   |             |            |                 | ✅            |                     |
+| 图生视频 |                   |             |      |                   |             |            |                 | ✅            |                     |
 
 ## 免费使用 Nano Banana Pro 教程
 
@@ -36,6 +36,11 @@
 1. [⁤﻿‌‍⁤﻿‌⁢⁣‌‍‬⁢⁤⁡⁤⁡‌⁢‬⁣‬‌‌⁣‍‍‌‌⁤⁣﻿‌⁣‍⁢⁡⁢⁣⁡‌‌豆包 Seedream 4.0 使用指南 - 飞书云文档](https://bytedance.larkoffice.com/docx/XwngdqdhIowfF8xhEA4cwpS2nLb)
 
 ## AI生图提示词仓库
+
+### GPT-Image-2
+
+1. [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.
+2. [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2): 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.
 
 ### Gemini Nano Banana Pro
 
