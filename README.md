@@ -31,6 +31,11 @@
 
 - [Kie](https://kie.ai?ref=1b87846a567f5c45eced7acdc284af99)：支持AI视频（Seedance 2.0）、AI生图（Nano Banana Pro）、AI音乐（Suno）、LLM AI 聊天
 
+## ChatGPT Image 2.0 体验地址
+
+- [ChatGPT官网地址](https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwib-cPHvYOUAxXXO0QIHT9nKGoYACICCAEQABoCZHo&co=1&ase=2&gclid=CjwKCAjwhqfPBhBWEiwAZo196rdWjQtsLYblM_BWSekiN_r7Ko3eJWHJefkMInC8U1CV_wLjZRG3yRoCz8AQAvD_BwE&cid=CAASuwHkaJ26uaA4bekDERutSwYJY2QlVBZigEGG9Enz0TXf6zMnLkyPCFv93buBxOtnOwpwEezVmemtwqYUwjf3iB-CKaZ12KDjjz7lmHdGkgI0fZnYNjtbrVg5lbE0z6bWMyDHY98I35bQ6Y_bMq-RGvGg6X5Bi4T4jlcLkOFnjtyJnMqTteArW1waHLgjL-f4xeOaMJq_vMYj4oORjGeAz2SF8-DSyQnMq4aMym2esEtRx9bLzQI9Q7BtpMuF&cce=2&category=acrcp_v1_32&sig=AOD64_0dxu7FxHdwX0udamJx6fGvW_PgFw&q&nis=4&adurl=https://chatgpt.com/images/?utm_source%3Dgoogle%26utm_medium%3Dpaid_search%26utm_campaign%3DGOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425%26c_id%3D22410330953%26c_agid%3D176252307814%26c_crid%3D744111880787%26c_kwid%3Dkwd-879880217928%26c_ims%3D%26c_pms%3D9199071%26c_nw%3Dg%26c_dvc%3Dc%26gad_source%3D1%26gad_campaignid%3D22410330953%26gbraid%3D0AAAAA-I0E5cm2kRBVn-xSnbcXMfS8Lh5J%26gclid%3DCjwKCAjwhqfPBhBWEiwAZo196rdWjQtsLYblM_BWSekiN_r7Ko3eJWHJefkMInC8U1CV_wLjZRG3yRoCz8AQAvD_BwE&ved=2ahUKEwin2b_HvYOUAxUrIEQIHRMOE-sQ0Qx6BAgVEAE)
+- [GPT Image 2 AI Image Generator](https://gptimage2.wwkejishe.top/)
+
 ## AI生图提示词使用教程
 
 1. [⁤﻿‌‍⁤﻿‌⁢⁣‌‍‬⁢⁤⁡⁤⁡‌⁢‬⁣‬‌‌⁣‍‍‌‌⁤⁣﻿‌⁣‍⁢⁡⁢⁣⁡‌‌豆包 Seedream 4.0 使用指南 - 飞书云文档](https://bytedance.larkoffice.com/docx/XwngdqdhIowfF8xhEA4cwpS2nLb)
