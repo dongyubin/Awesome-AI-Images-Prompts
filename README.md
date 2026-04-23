@@ -33,6 +33,10 @@
 
 ## ChatGPT Image 2.0 体验地址
 
+[GPT Image 2](https://gptimage2.wwkejishe.top/) is OpenAI's next-gen AI image generator with native-level text rendering, photo-realistic quality, pixel-perfect consistency, and 4K output — a game-changer in AI image generation.
+
+GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation image model — a massive leap from GPT Image 1.5. It delivers native-level multilingual text rendering with zero distortion even on curved surfaces, photo-realistic quality so convincing testers asked 'Is it just downloading photos from the internet?', and pixel-perfect character consistency down to the last pixel. With advanced world knowledge for maps, anatomical diagrams, and scene physics, GPT Image 2 surpasses Google's Gemini Imagen in text accuracy and complex scenes.
+
 - [ChatGPT官网地址](https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwib-cPHvYOUAxXXO0QIHT9nKGoYACICCAEQABoCZHo&co=1&ase=2&gclid=CjwKCAjwhqfPBhBWEiwAZo196rdWjQtsLYblM_BWSekiN_r7Ko3eJWHJefkMInC8U1CV_wLjZRG3yRoCz8AQAvD_BwE&cid=CAASuwHkaJ26uaA4bekDERutSwYJY2QlVBZigEGG9Enz0TXf6zMnLkyPCFv93buBxOtnOwpwEezVmemtwqYUwjf3iB-CKaZ12KDjjz7lmHdGkgI0fZnYNjtbrVg5lbE0z6bWMyDHY98I35bQ6Y_bMq-RGvGg6X5Bi4T4jlcLkOFnjtyJnMqTteArW1waHLgjL-f4xeOaMJq_vMYj4oORjGeAz2SF8-DSyQnMq4aMym2esEtRx9bLzQI9Q7BtpMuF&cce=2&category=acrcp_v1_32&sig=AOD64_0dxu7FxHdwX0udamJx6fGvW_PgFw&q&nis=4&adurl=https://chatgpt.com/images/?utm_source%3Dgoogle%26utm_medium%3Dpaid_search%26utm_campaign%3DGOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425%26c_id%3D22410330953%26c_agid%3D176252307814%26c_crid%3D744111880787%26c_kwid%3Dkwd-879880217928%26c_ims%3D%26c_pms%3D9199071%26c_nw%3Dg%26c_dvc%3Dc%26gad_source%3D1%26gad_campaignid%3D22410330953%26gbraid%3D0AAAAA-I0E5cm2kRBVn-xSnbcXMfS8Lh5J%26gclid%3DCjwKCAjwhqfPBhBWEiwAZo196rdWjQtsLYblM_BWSekiN_r7Ko3eJWHJefkMInC8U1CV_wLjZRG3yRoCz8AQAvD_BwE&ved=2ahUKEwin2b_HvYOUAxUrIEQIHRMOE-sQ0Qx6BAgVEAE)
 - [GPT Image 2 AI Image Generator](https://gptimage2.wwkejishe.top/)
 
