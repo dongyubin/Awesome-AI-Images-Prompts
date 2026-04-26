@@ -93,6 +93,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 支持 Claude Code、OpenClaw
 
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)：小红书图片卡片系列生成器、专业信息图生成器、从内容生成专业的幻灯片图片、知识漫画创作器、智能文章插图技能
+- [Vivixiao980/xhs-cover-skill](https://github.com/Vivixiao980/xhs-cover-skill): 小红书封面生成器 - Claude Code Skill，支持18种预设风格，命令行直接生成小红书封面
 
 ## Seedance 2.0 
 
@@ -111,6 +112,24 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 - [liangdabiao/make-prompt-seedance2](https://github.com/liangdabiao/make-prompt-seedance2): 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 | 带货广告| TVC广告
 
 ## AI生图提示词展示案例
+
+### 手绘风格黑白插画
+
+- 使用生图模型：GPT-Image-2
+
+```
+手绘风格黑白插画，小红书封面设计，极简风，白色背景，黑色线稿人物，一个年轻男性坐在桌前认真写字，桌上有笔记本、马克杯、闹钟和书本，整体是线条感强的涂鸦风，类似手账插画风格
+画面包含大标题排版：“{{标题}}”，字体为手写粗体，带有随意感 局部用黄色作为强调色（下划线、圈重点、星星点缀等）
+画面左侧有便利贴，上面写文字：
+{{便利贴文字，可以1、2、3分条}}
+右侧有灯泡图标+“每天2小时认真尝试”
+底部有一句黑底白字的文案条 整体风格： 知识博主风 、真实记录感、轻松但克制、不商业化
+风格参考：手绘涂鸦、黑白线稿+少量高亮色 构图干净，信息分区清晰，适合内容封面传播
+底部标签：{{底部标签，可用 | 分割}}
+高分辨率
+```
+
+![手绘风格黑白插画](images/2026-04-26-AI副业-学习记录.webp)
 
 ### 黑神话悟空
 
