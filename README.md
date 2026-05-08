@@ -37,7 +37,7 @@
 
 GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation image model — a massive leap from GPT Image 1.5. It delivers native-level multilingual text rendering with zero distortion even on curved surfaces, photo-realistic quality so convincing testers asked 'Is it just downloading photos from the internet?', and pixel-perfect character consistency down to the last pixel. With advanced world knowledge for maps, anatomical diagrams, and scene physics, GPT Image 2 surpasses Google's Gemini Imagen in text accuracy and complex scenes.
 
-- [ChatGPT官网地址](https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwib-cPHvYOUAxXXO0QIHT9nKGoYACICCAEQABoCZHo&co=1&ase=2&gclid=CjwKCAjwhqfPBhBWEiwAZo196rdWjQtsLYblM_BWSekiN_r7Ko3eJWHJefkMInC8U1CV_wLjZRG3yRoCz8AQAvD_BwE&cid=CAASuwHkaJ26uaA4bekDERutSwYJY2QlVBZigEGG9Enz0TXf6zMnLkyPCFv93buBxOtnOwpwEezVmemtwqYUwjf3iB-CKaZ12KDjjz7lmHdGkgI0fZnYNjtbrVg5lbE0z6bWMyDHY98I35bQ6Y_bMq-RGvGg6X5Bi4T4jlcLkOFnjtyJnMqTteArW1waHLgjL-f4xeOaMJq_vMYj4oORjGeAz2SF8-DSyQnMq4aMym2esEtRx9bLzQI9Q7BtpMuF&cce=2&category=acrcp_v1_32&sig=AOD64_0dxu7FxHdwX0udamJx6fGvW_PgFw&q&nis=4&adurl=https://chatgpt.com/images/?utm_source%3Dgoogle%26utm_medium%3Dpaid_search%26utm_campaign%3DGOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425%26c_id%3D22410330953%26c_agid%3D176252307814%26c_crid%3D744111880787%26c_kwid%3Dkwd-879880217928%26c_ims%3D%26c_pms%3D9199071%26c_nw%3Dg%26c_dvc%3Dc%26gad_source%3D1%26gad_campaignid%3D22410330953%26gbraid%3D0AAAAA-I0E5cm2kRBVn-xSnbcXMfS8Lh5J%26gclid%3DCjwKCAjwhqfPBhBWEiwAZo196rdWjQtsLYblM_BWSekiN_r7Ko3eJWHJefkMInC8U1CV_wLjZRG3yRoCz8AQAvD_BwE&ved=2ahUKEwin2b_HvYOUAxUrIEQIHRMOE-sQ0Qx6BAgVEAE)
+- [ChatGPT官网地址](https://chatgpt.com/images/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425&c_id=22410330953&c_agid=176252307814&c_crid=744111880787&c_kwid=kwd-879880217928&c_ims&c_pms=9199071&c_nw=g&c_dvc=c)
 - [GPT Image 2 AI Image Generator](https://gptimage2.wwkejishe.top/)
 
 ## AI生图提示词使用教程
@@ -52,6 +52,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 2. [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2): 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.
 3. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2/tree/main): Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
 4. [wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill)：OpenAI GPT Image 2 Prompt Gallery、Image Prompt Library、Agentic Skill + CLI — 面向支持 Skill 的 Agent 运行时的精选可复用提示词与可运行示例。目前收录了科研配图、海报设计、UI Mockup、游戏 HUD、动漫 / 漫画、摄影风格、字体设计、地图导航、纹身设计，以及参考图编辑等 AI image prompts / examples。
+5. [useneospark/awesome-gpt-image-2](https://github.com/useneospark/awesome-gpt-image-2)：**全球最大的 GPT Image 2 提示词精选合集。**为创作者、营销人员和设计师精心挑选、测试和整理。
 
 ### Gemini Nano Banana Pro
 
