@@ -13,7 +13,7 @@
 - [教程：免费领1个月 Gemini 3、Nano Banana Pro和Veo 3会员](https://www.wangdu.site/fuliyouhui/2291.html)
 - [12个免费白嫖 Nano Banana Pro 的方法，亲测有用](https://www.wangdu.site/software/ai/2288.html)
 - [2026年1月最全Gemini学生优惠申请指南及问题：免费获取一年 Google AI Pro](https://www.wangdu.site/course/2303.html)：截止到**2026年1月31日**
-- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户免费赠送 4000 积分
+- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户免费赠送 4000 积分（已支持 GPT Image 2）
 
 ## 付费 Nano Banana Pro（免费体验）
 
@@ -21,11 +21,11 @@
 
 尝鲜的可以用免费积分，觉得好用可以续费会员。
 
-- [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费生成 1 次
-- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户赠送 4000 积分
+- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户赠送 4000 积分（已支持 GPT Image 2）
+- [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费使用 Nano Banana 生成 1 次（已支持 GPT Image 2）
+- [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
-- [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
 
 ### API 开发使用
 
@@ -37,7 +37,7 @@
 
 GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation image model — a massive leap from GPT Image 1.5. It delivers native-level multilingual text rendering with zero distortion even on curved surfaces, photo-realistic quality so convincing testers asked 'Is it just downloading photos from the internet?', and pixel-perfect character consistency down to the last pixel. With advanced world knowledge for maps, anatomical diagrams, and scene physics, GPT Image 2 surpasses Google's Gemini Imagen in text accuracy and complex scenes.
 
-- [ChatGPT官网地址](https://chatgpt.com/images/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425&c_id=22410330953&c_agid=176252307814&c_crid=744111880787&c_kwid=kwd-879880217928&c_ims&c_pms=9199071&c_nw=g&c_dvc=c)
+- [ChatGPT官网地址](https://chatgpt.com/images/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425&c_id=22410330953&c_agid=176252307814&c_crid=744111880787&c_kwid=kwd-879880217928&c_ims&c_pms=9199071&c_nw=g&c_dvc=c)（[ChatGPT Plus土区官方自动充值](https://shop.wwkejishe.top/buy/53)）
 - [GPT Image 2 AI Image Generator](https://gptimage2.wwkejishe.top/)
 
 ## AI生图提示词使用教程
