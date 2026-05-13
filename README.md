@@ -39,6 +39,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 - [ChatGPT官网地址](https://chatgpt.com/images/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425&c_id=22410330953&c_agid=176252307814&c_crid=744111880787&c_kwid=kwd-879880217928&c_ims&c_pms=9199071&c_nw=g&c_dvc=c)（[ChatGPT Plus土区官方自动充值](https://shop.wwkejishe.top/buy/53)）
 - [GPT Image 2 AI Image Generator](https://gptimage2.wwkejishe.top/)
+- [gptimage2.plus](https://gptimage2.plus/)：GPT-Image-2 网页版生成 / 编辑 / 修复，最高 2K 无水印，注册送 5 积分免费试用，支持 12 种语言（含简体 / 繁体中文）。
 
 ## AI生图提示词使用教程
 
