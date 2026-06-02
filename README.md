@@ -26,10 +26,11 @@
 - [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
+- [MeiGen - Free GPT Image 2 & Nano Banana Prompts Gallery](https://www.meigen.ai/)：每日 20 积分（已支持 GPT Image 2）
 
 ### API 开发使用
 
-- [Kie](https://kie.ai?ref=1b87846a567f5c45eced7acdc284af99)：支持AI视频（Seedance 2.0）、AI生图（Nano Banana Pro）、AI音乐（Suno）、LLM AI 聊天
+- [Kie](https://kie.ai?ref=1b87846a567f5c45eced7acdc284af99)：支持AI视频（Seedance 2.0）、AI生图（Nano Banana Pro、GPT Image 2）、AI音乐（Suno）、LLM AI 聊天
 
 ## ChatGPT Image 2.0 体验地址
 
@@ -48,11 +49,12 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ### GPT-Image-2
 
-1. [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.
-2. [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2): 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.
-3. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2/tree/main): Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
-4. [wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill)：OpenAI GPT Image 2 Prompt Gallery、Image Prompt Library、Agentic Skill + CLI — 面向支持 Skill 的 Agent 运行时的精选可复用提示词与可运行示例。目前收录了科研配图、海报设计、UI Mockup、游戏 HUD、动漫 / 漫画、摄影风格、字体设计、地图导航、纹身设计，以及参考图编辑等 AI image prompts / examples。
-5. [useneospark/awesome-gpt-image-2](https://github.com/useneospark/awesome-gpt-image-2)：**全球最大的 GPT Image 2 提示词精选合集。**为创作者、营销人员和设计师精心挑选、测试和整理。
+1. OpenAI 官方介绍：[Introducing ChatGPT Images 2.0 | OpenAI](https://openai.com/index/introducing-chatgpt-images-2-0/)
+2. [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.
+3. [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2): 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.
+4. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2/tree/main): Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
+5. [wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill)：OpenAI GPT Image 2 Prompt Gallery、Image Prompt Library、Agentic Skill + CLI — 面向支持 Skill 的 Agent 运行时的精选可复用提示词与可运行示例。目前收录了科研配图、海报设计、UI Mockup、游戏 HUD、动漫 / 漫画、摄影风格、字体设计、地图导航、纹身设计，以及参考图编辑等 AI image prompts / examples。
+6. [useneospark/awesome-gpt-image-2](https://github.com/useneospark/awesome-gpt-image-2)：**全球最大的 GPT Image 2 提示词精选合集。**为创作者、营销人员和设计师精心挑选、测试和整理。
 
 ### Gemini Nano Banana Pro
 
@@ -118,7 +120,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ### 东方神话人物志百科海报
 
-使用生图模型：GPT-Image-2
+- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
 
 ```markdown
 请基于【孙悟空】生成一张竖版 A4「东方神话人物志」百科海报。
@@ -181,7 +183,8 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ### 手绘风格黑白插画
 
-- 使用生图模型：GPT-Image-2
+- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
+- 适合：小红书
 
 ```
 手绘风格黑白插画，小红书封面设计，极简风，白色背景，黑色线稿人物，一个年轻男性坐在桌前认真写字，桌上有笔记本、马克杯、闹钟和书本，整体是线条感强的涂鸦风，类似手账插画风格
@@ -199,11 +202,11 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ### 黑神话悟空
 
-- 使用生图模型：GPT-Image-2
+- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
 
 ```markdown
 用 gpt-image-2 生成
-根据{黑神话悟空}自动生成一张 收藏版史诗叙事海报， 
+根据{黑神话悟空}自动生成一张收藏版史诗叙事海报， 
 
 巨大优雅的{悟空}人物侧脸剪影作为外轮廓，剪影内部自动生长出最契合该主题的完整世界观、标志性场景、角色关系、象征符号、关键建筑、生物、道具与氛围。
 
@@ -226,9 +229,238 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ![黑神话悟空](images/2026-04-26-悟空-神话-战斗.webp)
 
+### 复古朋克海报设计
+
+- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
+
+```
+你不是普通海报设计师。
+
+你是「复古地下乐队海报视觉导演 + 丝网印刷质感设计师 + 粗暴主义字体排版系统」。
+
+你的任务是：
+根据用户输入的一个主题词 / 名字 / 中文词 / 英文单词，并结合用户是否上传人物图像，生成一张具有复古朋克音乐海报气质的高冲击力视觉海报。
+
+这张海报的核心不是“人像加文字”，而是：
+
+「巨型文字成为空间，人物像油墨残影一样从字母或汉字之间穿出来。」
+
+--------------------------------------------------
+
+【用户输入】
+
+1. 主视觉文字：
+{Freddie Mercury/Queen}
+
+2. 人物参考图：
+{可选}
+
+3. 如果用户输入的是名人姓名：
+若系统具备联网检索能力，请先检索该人物的公开形象特征，包括：
+标志性发型、脸型轮廓、常见姿态、代表性服装、时代气质、职业身份、代表作品或公众印象。
+不要直接复制某一张具体照片，而是提炼其公开形象符号，生成一张概念化复古海报。
+
+4. 小字注释：
+系统根据主题自动生成 2–4 组短小文字，中英文搭配。
+若主视觉为中文，可搭配少量英文小字；若主视觉为英文，可搭配少量中文注释。
+
+--------------------------------------------------
+
+【画面风格】
+
+生成一张 1:1 方形复古音乐海报，整体像 80s–90s 地下乐队巡演海报、朋克杂志封面、独立唱片封套、复印店传单、丝网印刷海报。
+
+画面必须具有：
+- 粗糙油墨感
+- 双色 / 三色印刷感
+- 高对比剪影
+- 半调网点颗粒
+- 纸张纤维纹理
+- 轻微套印错位
+- 复印机噪点
+- 海报折痕与旧纸质感
+- 边缘轻微磨损
+
+不要做成干净的现代平面设计。
+不要做成光滑的商业摄影。
+不要做成普通字体海报。
+要有一种「印坏了反而更高级」的地下文化质感。
+
+--------------------------------------------------
+
+【字体规则】
+
+主视觉文字必须是画面最大元素，占据画面 70%–85% 的空间。
+
+如果是英文：
+使用极粗、极窄、压缩感强的无衬线大写字体，类似复古巡演海报字体，字母巨大、垂直、有压迫感。
+
+如果是中文：
+使用极粗黑体 / 块面字体 / 压缩字体，字体必须像建筑一样撑满画面。
+
+文字不是贴在背景上的标签，而是画面的主体结构。
+人物必须被文字遮挡、切割、穿插。
+人物可以从字母内部、字缝、负空间里出现。
+
+主文字必须保持可读，但允许有局部遮挡、磨损、油墨断裂。
+
+--------------------------------------------------
+
+【人物处理】
+
+如果用户上传人物图像：
+必须保留人物的五官结构、脸型比例、发型气质与真实身份特征。
+不要网红化，不要美颜重塑，不要改变年龄、性别、种族和骨相。
+
+但人物照片不能保持普通照片质感。
+必须转化为复古丝网印刷人像：
+
+- 高对比 posterized 处理
+- 双色油墨分离
+- 面部阴影被压成大块色面
+- 五官边缘有粗糙颗粒
+- 皮肤呈现偏色，不是正常肤色
+- 可使用橘粉、肉桂色、旧报纸米色、暗红、脏桃色作为人物亮部
+- 阴影可使用黑色、深蓝、暗紫
+- 人物整体像旧唱片封面上的印刷人像
+
+如果用户没有上传人物：
+根据主题自动生成一个符合主题气质的人物。
+例如：
+音乐主题可生成人物拿吉他、麦克风、贝斯、鼓槌；
+思想主题可生成人物沉默站立、低头、侧脸、被文字遮挡；
+运动主题可生成人物动态动作；
+情绪主题可生成人物半身剪影或模糊凝视。
+
+人物比例不要太大。
+人物高度约占画面 35%–50%。
+人物不要完整占据中心。
+人物必须像从文字结构里冒出来，而不是站在文字前面拍照。
+
+--------------------------------------------------
+
+【颜色系统】
+
+根据用户输入的主题自动选择高冲突复古配色。
+
+必须限制在 2–3 个主色内：
+
+推荐组合（随机选择一下组合其一作为配色方案）：
+1. 黑色背景 + 电光蓝大字 + 橘粉人像 + 米白小字
+2. 深棕黑背景 + 钴蓝大字 + 脏桃色人像 + 旧纸白小字
+3. 墨黑背景 + 紫蓝大字 + 暗红 / 橙色人像 + 米黄色注释
+4. 暗海军蓝背景 + 奶油白大字 + 猩红人像 + 黑色阴影
+
+颜色必须像油墨印刷，而不是数码渐变。
+允许轻微套印偏移，让蓝色和橘色边缘出现错位感。
+
+--------------------------------------------------
+
+【小字排版】
+
+在画面右下角、左下角或边缘加入少量小字，让海报更像真实巡演海报 / 杂志封面 / 唱片封套。
+
+小字内容由系统根据主题自动生成。
+风格要短、硬、冷，不要鸡汤，不要解释过多。
+
+例如：
+- POETRY TOUR
+- LIVE SESSION
+- FIELD NOTES
+- NO. 03
+- ARCHIVE PRINT
+- ONE NIGHT ONLY
+- SYSTEM OF MEMORY
+- HUMAN NOISE
+- 2026 LIMITED EDITION
+
+小字必须与主视觉文字形成层级差异：
+主字巨大粗暴，小字克制、窄长、像票根信息。
+
+--------------------------------------------------
+
+【构图要求】
+
+画面要有强烈平面冲击力。
+
+构图逻辑：
+- 背景为深色粗糙纸面
+- 主文字巨大，占满画面
+- 人物被嵌入文字结构中
+- 文字压住人物局部
+- 人物局部越过文字边缘
+- 主文字、人物、小字之间形成遮挡关系
+- 画面四周可有轻微圆角边框、旧贴纸边缘、磨损黑框
+
+整体要像一张被贴在地下酒吧墙上的老海报。
+不是精致广告，而是有态度、有噪音、有现场感的视觉传单。
+
+--------------------------------------------------
+
+【质感关键词】
+
+retro punk gig poster,
+underground music poster,
+screen print texture,
+risograph print,
+xerox zine aesthetic,
+distressed ink,
+halftone dots,
+posterized portrait,
+two-color overprint,
+misregistered ink,
+brutalist typography,
+huge condensed bold letters,
+rough paper grain,
+vintage concert flyer,
+independent record cover,
+raw graphic design,
+high contrast duotone portrait,
+grainy photocopy texture.
+
+--------------------------------------------------
+
+【禁止项】
+
+不要现代商业海报。
+不要干净渐变。
+不要 3D 字体。
+不要赛博霓虹。
+不要奢侈品广告感。
+不要光滑高清人像。
+不要卡通插画。
+不要 AI 塑料感。
+不要过度装饰。
+不要复杂背景。
+不要让人物完全盖住大字。
+不要让主文字不可读。
+不要生成无意义乱码小字。
+不要使用太多颜色。
+不要把人物变成普通摄影写真。
+
+--------------------------------------------------
+
+【最终输出】
+
+生成一张复古朋克丝网印刷风格海报。加强复古丝网印刷感。人物不要像真实照片，要处理成高对比双色油墨人像，肤色明显偏橘粉或脏桃色，阴影压成黑色和深蓝色块。主文字继续放大，占满画面，让人物从字母或汉字缝隙里穿出来，被文字遮挡和切割。增加半调网点、纸张颗粒、复印机噪点、套印错位和旧海报磨损感。
+
+主视觉文字：
+{用户输入文字}
+
+人物：
+{上传人物图像 / 系统自动生成 / 名人公开形象概念化}
+
+画面必须呈现：
+巨型字体压迫感 + 人像偏色油墨处理 + 字体遮挡穿插 + 粗糙纸张颗粒 + 复古地下巡演海报气质。
+
+将宽高比设为 9:16
+```
+
+
+
 ### 清晰、准确、工程风格的爆炸图
 
-- 使用生图模型：Nano Banana Pro 
+- 使用生图模型：[Nano Banana Pro](https://aff.flowith.io/9yukgjlnm190) 
 
 ```markdown
 Exploded isometric teardown diagram of [Put the name of the Object you are exploding]. Separate every component along a clear vertical axis with precise spacing. Render each part with accurate proportions and clean geometry. Include: outer casings, inner frame, mechanical parts, electrical modules, PCB, chips, connectors, buttons, switches, sensors, battery, screws. Use neutral lighting and a plain white background. Add thin uniform annotation lines pointing to each part with short, readable labels placed neatly around the image. No artistic style. No texture exaggeration. No distortion. Only a sharp, professional engineering breakdown similar to a hardware service manual.
@@ -238,7 +470,7 @@ Exploded isometric teardown diagram of [Put the name of the Object you are explo
 
 ### 多视角主角图
 
-- 使用生图模型：Nano Banana Pro 
+- 使用生图模型：[Nano Banana Pro](https://aff.flowith.io/9yukgjlnm190) 
 
 ```markdown
  分析输入图像的整个构图。识别所有存在的关键主体（无论是单人、群体/情侣、车辆还是特定物体）及其空间关系/互动。 生成一个连贯的 3x3 网格“电影印样（Contact Sheet）”，展示在同一环境中完全是这些主体的 9 个不同镜头。 你必须调整标准的电影镜头类型以适应内容（例如，如果是群体，保持群体在一起；如果是物体，构图包含整个物体）： 第 1 行（建立背景）： 大远景 (ELS)： 主体在广阔的环境中显得很小。 全景 (LS)： 完整的主体或群体从上到下可见（从头到脚 / 从车轮到车顶）。 中远景 (美式镜头/四分之三)： 构图从膝盖以上（针对人物）或 3/4 视角（针对物体）。 第 2 行（核心覆盖）： 4. 中景 (MS)： 构图从腰部以上（或物体的中心核心）。聚焦于互动/动作。 5. 中特写 (MCU)： 构图从胸部以上。主要主体的亲密构图。 6. 特写 (CU)： 紧凑构图于脸部或物体的“正面”。 第 3 行（细节与角度）： 7. 大特写 (ECU)： 强烈聚焦于关键特征（眼睛、手、标志、纹理）的微距细节。 8. 低角度镜头 (仰视/虫眼)： 从地面仰望主体（壮观/英雄感）。 9. 高角度镜头 (俯视/鸟瞰)： 从上方俯瞰主体。 确保严格的一致性：所有 9 个面板中是相同的人物/物体、相同的衣服和相同的光照。景深应逼真地变化（特写镜头中的背景虚化）。 一个包含 9 个面板的专业 3x3 电影故事板网格。 该网格以全面的焦距范围展示输入图像中的特定主体/场景。 顶行： 宽广环境镜头，全视图，3/4 剪辑（膝上景）。 中间行： 腰部以上视图，胸部以上视图，脸部/正面特写。 底行： 微距细节，低角度，高角度。 所有帧均具有照片般逼真的纹理，一致的电影级调色，以及针对所分析的主体或物体特定数量的正确构图。
