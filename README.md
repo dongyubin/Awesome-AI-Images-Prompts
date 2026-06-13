@@ -47,7 +47,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ## AI生图提示词仓库
 
-- [AI Visual Prompt Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook/blob/main/README.zh-CN.md#all-styles) **复制一个 JSON，得到一种风格。** 把一个 `style.json` 放进 ChatGPT、Claude、Nano Banana Pro、即梦或其他 LLM 图像工作流，替换变量，保留完整视觉系统。这是一个面向 AI 图像生成的可复用视觉提示词风格库：每个风格都被整理成可直接使用的 `style.json`，并配套横竖两张预览图，方便浏览、复制和二次生成。
+- [AI Visual Prompt Cookbook](https://github.com/VigoZhao/AI-Visual-Prompt-Cookbook/blob/main/README.zh-CN.md#all-styles)（[在线预览效果](https://vigozhao.github.io/AI-Visual-Prompt-Cookbook/site/)） **复制一个 JSON，得到一种风格。** 把一个 `style.json` 放进 ChatGPT、Claude、Nano Banana Pro、即梦或其他 LLM 图像工作流，替换变量，保留完整视觉系统。这是一个面向 AI 图像生成的可复用视觉提示词风格库：每个风格都被整理成可直接使用的 `style.json`，并配套横竖两张预览图，方便浏览、复制和二次生成。
 
 ### GPT-Image-2
 
