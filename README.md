@@ -165,7 +165,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 内容为：
 ```
 
-![手写风格学习笔记封面](Images/20260613-手写笔记风格封面.jpg)
+![手写风格学习笔记封面](images/20260613-手写笔记风格封面.jpg)
 
 ### 矢量插画封面
 
