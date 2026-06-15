@@ -118,6 +118,16 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 - [Seedance 2.0 Prompts - 高质量AI视频生成提示词与示例 - Atlas Cloud](https://www.atlascloud.ai/zh/seedance-2-prompt)（使用[此链接注册](https://www.atlascloud.ai?ref=GBD3AQ)充值可获取优惠）
 - [liangdabiao/make-prompt-seedance2](https://github.com/liangdabiao/make-prompt-seedance2): 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 | 带货广告| TVC广告
 
+## Seedream 5.0 图像生成
+
+Seedream 5.0 是字节跳动最新 AI 图像生成大模型（同系列含 4.5、4.0），支持文生图、图生图。
+
+### Seedream 5.0 免费体验
+
+| 平台   | 地址                                         | 说明                                         |
+| ------ | -------------------------------------------- | -------------------------------------------- |
+| Seedream AI Studio | [https://seedream4.video](https://seedream4.video) | 独立平台，支持 Seedream 5.0/4.5/4.0 图像生成 + Kling 2.1 一键视频动画，免费试用 |
+
 ## GPT Image 2 封面设计
 
 ### 教授白板风格图片
