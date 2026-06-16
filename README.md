@@ -13,7 +13,7 @@
 - [教程：免费领1个月 Gemini 3、Nano Banana Pro和Veo 3会员](https://www.wangdu.site/fuliyouhui/2291.html)
 - [12个免费白嫖 Nano Banana Pro 的方法，亲测有用](https://www.wangdu.site/software/ai/2288.html)
 - [2026年1月最全Gemini学生优惠申请指南及问题：免费获取一年 Google AI Pro](https://www.wangdu.site/course/2303.html)：截止到**2026年1月31日**
-- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户免费赠送 4000 积分（已支持 GPT Image 2）
+- [Flowith](https://mangataltd.sjv.io/eneYrZ)：新用户免费赠送 4000 积分（已支持 GPT Image 2）
 
 ## 付费 Nano Banana Pro（免费体验）
 
@@ -21,7 +21,7 @@
 
 尝鲜的可以用免费积分，觉得好用可以续费会员。
 
-- [Flowith](https://aff.flowith.io/9yukgjlnm190)：新用户赠送 4000 积分（已支持 GPT Image 2）
+- [Flowith](https://mangataltd.sjv.io/eneYrZ)：新用户赠送 4000 积分（已支持 GPT Image 2）
 - [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费使用 Nano Banana 生成 1 次（已支持 GPT Image 2）
 - [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
@@ -640,7 +640,7 @@ grotesk、neo-grotesque、condensed sans-serif、geometric sans-serif。
 
 ### 东方神话人物志百科海报
 
-- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
+- 使用生图模型：[GPT-Image-2](https://mangataltd.sjv.io/eneYrZ)
 
 ```markdown
 请基于【孙悟空】生成一张竖版 A4「东方神话人物志」百科海报。
@@ -703,7 +703,7 @@ grotesk、neo-grotesque、condensed sans-serif、geometric sans-serif。
 
 ### 手绘风格黑白插画
 
-- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
+- 使用生图模型：[GPT-Image-2](https://mangataltd.sjv.io/eneYrZ)
 - 适合：小红书
 
 ```
@@ -722,7 +722,7 @@ grotesk、neo-grotesque、condensed sans-serif、geometric sans-serif。
 
 ### 黑神话悟空
 
-- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
+- 使用生图模型：[GPT-Image-2](https://mangataltd.sjv.io/eneYrZ)
 
 ```markdown
 用 gpt-image-2 生成
@@ -751,7 +751,7 @@ grotesk、neo-grotesque、condensed sans-serif、geometric sans-serif。
 
 ### 复古朋克海报设计
 
-- 使用生图模型：[GPT-Image-2](https://aff.flowith.io/9yukgjlnm190)
+- 使用生图模型：[GPT-Image-2](https://mangataltd.sjv.io/eneYrZ)
 
 ```
 你不是普通海报设计师。
@@ -980,7 +980,7 @@ grainy photocopy texture.
 
 ### 清晰、准确、工程风格的爆炸图
 
-- 使用生图模型：[Nano Banana Pro](https://aff.flowith.io/9yukgjlnm190) 
+- 使用生图模型：[Nano Banana Pro](https://mangataltd.sjv.io/eneYrZ) 
 
 ```markdown
 Exploded isometric teardown diagram of [Put the name of the Object you are exploding]. Separate every component along a clear vertical axis with precise spacing. Render each part with accurate proportions and clean geometry. Include: outer casings, inner frame, mechanical parts, electrical modules, PCB, chips, connectors, buttons, switches, sensors, battery, screws. Use neutral lighting and a plain white background. Add thin uniform annotation lines pointing to each part with short, readable labels placed neatly around the image. No artistic style. No texture exaggeration. No distortion. Only a sharp, professional engineering breakdown similar to a hardware service manual.
@@ -990,7 +990,7 @@ Exploded isometric teardown diagram of [Put the name of the Object you are explo
 
 ### 多视角主角图
 
-- 使用生图模型：[Nano Banana Pro](https://aff.flowith.io/9yukgjlnm190) 
+- 使用生图模型：[Nano Banana Pro](https://mangataltd.sjv.io/eneYrZ) 
 
 ```markdown
  分析输入图像的整个构图。识别所有存在的关键主体（无论是单人、群体/情侣、车辆还是特定物体）及其空间关系/互动。 生成一个连贯的 3x3 网格“电影印样（Contact Sheet）”，展示在同一环境中完全是这些主体的 9 个不同镜头。 你必须调整标准的电影镜头类型以适应内容（例如，如果是群体，保持群体在一起；如果是物体，构图包含整个物体）： 第 1 行（建立背景）： 大远景 (ELS)： 主体在广阔的环境中显得很小。 全景 (LS)： 完整的主体或群体从上到下可见（从头到脚 / 从车轮到车顶）。 中远景 (美式镜头/四分之三)： 构图从膝盖以上（针对人物）或 3/4 视角（针对物体）。 第 2 行（核心覆盖）： 4. 中景 (MS)： 构图从腰部以上（或物体的中心核心）。聚焦于互动/动作。 5. 中特写 (MCU)： 构图从胸部以上。主要主体的亲密构图。 6. 特写 (CU)： 紧凑构图于脸部或物体的“正面”。 第 3 行（细节与角度）： 7. 大特写 (ECU)： 强烈聚焦于关键特征（眼睛、手、标志、纹理）的微距细节。 8. 低角度镜头 (仰视/虫眼)： 从地面仰望主体（壮观/英雄感）。 9. 高角度镜头 (俯视/鸟瞰)： 从上方俯瞰主体。 确保严格的一致性：所有 9 个面板中是相同的人物/物体、相同的衣服和相同的光照。景深应逼真地变化（特写镜头中的背景虚化）。 一个包含 9 个面板的专业 3x3 电影故事板网格。 该网格以全面的焦距范围展示输入图像中的特定主体/场景。 顶行： 宽广环境镜头，全视图，3/4 剪辑（膝上景）。 中间行： 腰部以上视图，胸部以上视图，脸部/正面特写。 底行： 微距细节，低角度，高角度。 所有帧均具有照片般逼真的纹理，一致的电影级调色，以及针对所分析的主体或物体特定数量的正确构图。
