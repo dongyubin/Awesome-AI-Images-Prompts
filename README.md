@@ -8,6 +8,10 @@
 | 文生视频 |             |                   |             | ✅            |      |                   |             |            |                 |               |
 | 图生视频 |             |                   |             | ✅            |      |                   |             |            |                 |               |
 
+## GPTPlus Codex、Claude Code、Gemini
+
+- [Cubence](https://cubence.com/signup?code=SC9CMVVC)：gpt-5.6-sol、gpt-5.6-luna、gpt-5.6-terra、claude-fable-5
+
 ## 免费使用 Nano Banana Pro 教程
 
 - [教程：免费领1个月 Gemini 3、Nano Banana Pro和Veo 3会员](https://www.wangdu.site/fuliyouhui/2291.html)
@@ -21,9 +25,9 @@
 
 尝鲜的可以用免费积分，觉得好用可以续费会员。
 
-- [Flowith](https://mangataltd.sjv.io/eneYrZ)：新用户赠送 4000 积分（已支持 GPT Image 2）
-- [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费使用 Nano Banana 生成 1 次（已支持 GPT Image 2）
+- [Flowith](https://mangataltd.sjv.io/eneYrZ)：新用户赠送 4000 积分（支持 GPT Image 2、Seedance 2.0、Nano Banana Pro）
 - [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
+- [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费使用 Nano Banana 生成 1 次（已支持 GPT Image 2、Seedance 2.0，即将支持**Seedance 2.5**）
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
 - [MeiGen - Free GPT Image 2 & Nano Banana Prompts Gallery](https://www.meigen.ai/)：每日 20 积分（已支持 GPT Image 2）
@@ -52,7 +56,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 ### GPT-Image-2
 
 1. OpenAI 官方介绍：[Introducing ChatGPT Images 2.0 | OpenAI](https://openai.com/index/introducing-chatgpt-images-2-0/)
-2. [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts) Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.
+2. [EvoLinkAI/awesome-gpt-image-2-prompts](https://evolink.ai/zh/gpt-image-2-prompts) Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.
 3. [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2): 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.
 4. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2/tree/main): Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
 5. [wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill)：OpenAI GPT Image 2 Prompt Gallery、Image Prompt Library、Agentic Skill + CLI — 面向支持 Skill 的 Agent 运行时的精选可复用提示词与可运行示例。目前收录了科研配图、海报设计、UI Mockup、游戏 HUD、动漫 / 漫画、摄影风格、字体设计、地图导航、纹身设计，以及参考图编辑等 AI image prompts / examples。
@@ -89,13 +93,13 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 1. [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images)：一个精选的 GPT-4o 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
 1. [ImgEdify/Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts)：GPT4o Prompts Dictionary | Curated Collection of AI Image Generation Prompts
 
-## 常用工具
+## 常用图片工具
 
-### 去水印
+### 图片去水印
 
 1. [Voyager](https://voyager.nagi.fun/)（Chrome插件、[Github开源地址](https://github.com/Nagi-ovo/gemini-voyager)）：NanoBanana 水印去除
 
-## Skills
+## 图片生成Skills
 
 支持 Claude Code、OpenClaw
 
@@ -1293,14 +1297,6 @@ Professional studio portrait photography, Christmas winter theme, white studio b
 
 ![圣诞写真](https://cdn.wwkejishe.top/wp-cdn-02/2025/20251216131342996.webp)
 
-### 修复老照片
-
-[作者原贴](https://x.com/lxfater/status/2000792144588804243)
-
-```
- {  "task": "portrait_restoration",  "language": "zh-CN",  "prompt": {  "subject": { "type": "human_portrait", "identity_fidelity": "match_uploaded_face_100_percent", "no_facial_modification": true, "expression": "natural", "eye_detail": "sharp_clear", "skin_texture": "ultra_realistic", "hair_detail": "natural_individual_strands", "fabric_detail": "rich_high_frequency_detail" }, "lighting": { "exposure": "bright_clear", "style": "soft_studio_light", "brightness_balance": "even", "specular_highlights": "natural_on_face_and_eyes", "shadow_transition": "smooth_gradual" }, "image_quality": { "resolution": "8k", "clarity": "high", "noise": "clean_low", "artifacts": "none", "over_smoothing": "none" }, "optics": { "camera_style": "full_frame_dslr", "lens": "85mm", "aperture": "f/1.8", "depth_of_field": "soft_shallow", "bokeh": "smooth_natural" }, "background": { "style": "clean_elegant", "distraction_free": true, "tone": "neutral" }, "color_grading": { "style": "cinematic", "saturation": "rich_but_natural", "white_balance": "accurate", "skin_tone": "natural_true_to_subject" }, "style_constraints": { "no_cartoon": true, "no_beauty_filter": true, "no_plastic_skin": true, "no_face_reshaping": true, "no_ai_face_swap": true } },  "negative_prompt": [  "cartoon", "anime", "cgi", "painterly", "plastic skin", "over-smoothing", "over-sharpening halos", "heavy skin retouching", "face reshaping", "identity drift", "face swap", "beauty filter", "uncanny", "washed out", "color cast", "blown highlights", "crushed shadows", "banding", "jpeg artifacts", "extra fingers", "deformed eyes", "asymmetrical face", "warped features" ],  "parameters": {  "fidelity_priority": "identity", "detail_priority": "eyes_skin_hair_fabric", "realism_strength": 0.95, "sharpening": "micro_contrast_only", "skin_retention": "keep_pores_and_microtexture", "recommended_denoise": "low_to_medium" }  }
-```
-
 ### 图片变手办提示词
 
 ```markdown
@@ -1411,6 +1407,26 @@ Snowy pine forest outside window, soft Christmas lights glowing on trees, mornin
 ![生日涂鸦照片效果图](images\08.png)
 
 来源：[X](https://x.com/_miju_9/status/2012467980408692975)
+
+## 图片处理
+
+图片处理包含老照片修复、分辨率放大
+
+### 修复老照片
+
+[作者原贴](https://x.com/lxfater/status/2000792144588804243)
+
+```
+ {  "task": "portrait_restoration",  "language": "zh-CN",  "prompt": {  "subject": { "type": "human_portrait", "identity_fidelity": "match_uploaded_face_100_percent", "no_facial_modification": true, "expression": "natural", "eye_detail": "sharp_clear", "skin_texture": "ultra_realistic", "hair_detail": "natural_individual_strands", "fabric_detail": "rich_high_frequency_detail" }, "lighting": { "exposure": "bright_clear", "style": "soft_studio_light", "brightness_balance": "even", "specular_highlights": "natural_on_face_and_eyes", "shadow_transition": "smooth_gradual" }, "image_quality": { "resolution": "8k", "clarity": "high", "noise": "clean_low", "artifacts": "none", "over_smoothing": "none" }, "optics": { "camera_style": "full_frame_dslr", "lens": "85mm", "aperture": "f/1.8", "depth_of_field": "soft_shallow", "bokeh": "smooth_natural" }, "background": { "style": "clean_elegant", "distraction_free": true, "tone": "neutral" }, "color_grading": { "style": "cinematic", "saturation": "rich_but_natural", "white_balance": "accurate", "skin_tone": "natural_true_to_subject" }, "style_constraints": { "no_cartoon": true, "no_beauty_filter": true, "no_plastic_skin": true, "no_face_reshaping": true, "no_ai_face_swap": true } },  "negative_prompt": [  "cartoon", "anime", "cgi", "painterly", "plastic skin", "over-smoothing", "over-sharpening halos", "heavy skin retouching", "face reshaping", "identity drift", "face swap", "beauty filter", "uncanny", "washed out", "color cast", "blown highlights", "crushed shadows", "banding", "jpeg artifacts", "extra fingers", "deformed eyes", "asymmetrical face", "warped features" ],  "parameters": {  "fidelity_priority": "identity", "detail_priority": "eyes_skin_hair_fabric", "realism_strength": 0.95, "sharpening": "micro_contrast_only", "skin_retention": "keep_pores_and_microtexture", "recommended_denoise": "low_to_medium" }  }
+```
+
+### 4K图像放大提示
+
+[作者原贴](https://x.com/eyishazyer/status/2073859462239035426) 该提示还有助于恢复缺失的细节，最重要的是恢复光照下的颜色部分。
+
+```
+Restore and enhance an old damaged photo. Remove scratches, stains, and noise. Reconstruct faded or torn areas while preserving original details. Slightly sharpen the image for better clarity, but keep it realistic. Apply natural and era-appropriate colors to skin, hair, and clothing. Use a soft, balanced background color without being too striking. The final result should look like an old photo that has been realistically restored and colorized, while respecting its original appearance.
+```
 
 ## 圣诞节相关提示词
 
