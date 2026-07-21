@@ -26,7 +26,7 @@
 尝鲜的可以用免费积分，觉得好用可以续费会员。
 
 - [Flowith](https://mangataltd.sjv.io/eneYrZ)：新用户赠送 4000 积分（支持 GPT Image 2、Seedance 2.0、Nano Banana Pro）
-- [Pollo.ai](https://pollo.ai?ref=ytu4ztm)：免费赠送10积分（每日免费提供2张图片。无需注册。）
+- [Pollo.ai](https://pollo.ai/invitation-landing?invite_code=wlEIYN)：免费赠送10积分（每日免费提供2张图片。无需注册。）
 - [imini](https://imini.com/?referralCode=3i9vnz4ukH)：每日免费使用 Nano Banana 生成 1 次（已支持 GPT Image 2、Seedance 2.0，即将支持**Seedance 2.5**）
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
