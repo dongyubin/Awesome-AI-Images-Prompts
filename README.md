@@ -35,6 +35,8 @@
 ### API 开发使用
 
 - [Kie](https://kie.ai?ref=1b87846a567f5c45eced7acdc284af99)：支持AI视频（Seedance 2.0）、AI生图（Nano Banana Pro、GPT Image 2等生图大模型）、AI音乐（Suno）、LLM AI 聊天
+- [HiAPI](https://www.hiapi.ai/invite/yQe7)：支持调 GPT Image、Seedance 这些图像/视频模型，一个 API key 全搞定，还有在线 Playground 能直接试
+- [ToAPIs](https://toapis.com/login?aff=IuQP)
 
 ## ChatGPT Image 2.0 体验地址
 
@@ -43,7 +45,7 @@
 GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation image model — a massive leap from GPT Image 1.5. It delivers native-level multilingual text rendering with zero distortion even on curved surfaces, photo-realistic quality so convincing testers asked 'Is it just downloading photos from the internet?', and pixel-perfect character consistency down to the last pixel. With advanced world knowledge for maps, anatomical diagrams, and scene physics, GPT Image 2 surpasses Google's Gemini Imagen in text accuracy and complex scenes.
 
 - [ChatGPT官网地址](https://chatgpt.com/images/?utm_source=google&utm_medium=paid_search&utm_campaign=GOOG_C_SEM_GNB_ImageGen_CHT_SEA_ACQ_PER_MIX_ALL_NAMER_US_EN_040425&c_id=22410330953&c_agid=176252307814&c_crid=744111880787&c_kwid=kwd-879880217928&c_ims&c_pms=9199071&c_nw=g&c_dvc=c)
-- [GPT Image 2 AI Image Generator](https://gptimage2.wwkejishe.top/)
+- [GPT Image 2 AI Image Generator](https://gptimage2.wwkejishe.top/)：支持文生图、图生图、 [老照片修复](https://gptimage2.wwkejishe.top/old-photo-restoration)
 
 ## AI生图提示词使用教程
 
