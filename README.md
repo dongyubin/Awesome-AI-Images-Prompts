@@ -1,12 +1,12 @@
 # Awesome-Images-Prompts
-适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512、Seedance 2.0、GPT-Image-2 等AI生图大模型的提示词
+适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512、Seedance 2.0、GPT-Image-2、MiniMax H3 等AI生图大模型的提示词
 
-|          | GPT-Image-2 | Nano Banana Pro/2 | Nano-banana | Seedance 2.0 | 即梦 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 | Wan2.7  Image |
-| -------- | ----------- | ----------------- | ----------- | ------------ | ---- | ----------------- | ----------- | ---------- | --------------- | ------------- |
-| 文生图   | ✅           | ✅                 | ✅           |              | ✅    | ✅                 | ✅           | ✅          | ✅               | ✅             |
-| 图生图   | ✅           | ✅                 | ✅           |              | ✅    | ✅                 | ❌           | ✅          | ✅               | ✅             |
-| 文生视频 |             |                   |             | ✅            |      |                   |             |            |                 |               |
-| 图生视频 |             |                   |             | ✅            |      |                   |             |            |                 |               |
+|          | GPT-Image-2 | Nano Banana Pro/2 | Nano-banana | Seedance 2.0 | 即梦 | MiniMax H3 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 | Wan2.7  Image |
+| -------- | ----------- | ----------------- | ----------- | ------------ | ---- | ---------- | ----------------- | ----------- | ---------- | --------------- | ------------- |
+| 文生图   | ✅           | ✅                 | ✅           |              | ✅    |            | ✅                 | ✅           | ✅          | ✅               | ✅             |
+| 图生图   | ✅           | ✅                 | ✅           |              | ✅    |            | ✅                 | ❌           | ✅          | ✅               | ✅             |
+| 文生视频 |             |                   |             | ✅            |      |            |                   |             |            |                 |               |
+| 图生视频 |             |                   |             | ✅            |      |            |                   |             |            |                 |               |
 
 ## GPTPlus Codex、Claude Code、Gemini
 
@@ -112,17 +112,24 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ### Seedance 2.0 免费体验
 
-| 平台   | 地址                                                        | 说明                   |
-| ------ | ----------------------------------------------------------- | ---------------------- |
-| 即梦   | [https://jimeng.jianying.com](https://jimeng.jianying.com/) | 网页版，全量上线       |
-| 小云雀 | [https://xyq.jianying.com](https://xyq.jianying.com/)       | App 下载，开放所有用户 |
-| 豆包   | 下载 App                                                    | 部分用户灰度测试       |
+| 平台    | 地址                                                         | 说明                   |
+| ------- | ------------------------------------------------------------ | ---------------------- |
+| 即梦    | [https://jimeng.jianying.com](https://jimeng.jianying.com/)  | 网页版，全量上线       |
+| 小云雀  | [https://xyq.jianying.com](https://xyq.jianying.com/)        | App 下载，开放所有用户 |
+| UpDream | [UpDream](https://www.updream.cn/)：可以用我的邀请码，买会员的话会有额外积分赠送：`YzllO3lcyh` | 网页版                 |
+| 豆包    | 下载 App                                                     | 网页版                 |
 
 ### Seedance 2.0 生成视频提示词仓库
 
 - [Seedance 2.0 提示词 - 高信噪比 AI 视频提示词库](https://youmind.com/zh-CN/seedance-2-0-prompts)（使用 [此链接注册Youmind](https://youmind.com/invite/6JGI8C) 赠送 200 积分）
 - [Seedance 2.0 Prompts - 高质量AI视频生成提示词与示例 - Atlas Cloud](https://www.atlascloud.ai/zh/seedance-2-prompt)（使用[此链接注册](https://www.atlascloud.ai?ref=GBD3AQ)充值可获取优惠）
 - [liangdabiao/make-prompt-seedance2](https://github.com/liangdabiao/make-prompt-seedance2): 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 | 带货广告| TVC广告
+
+## MiniMax H3
+
+### MiniMax H3
+
+- [MiniMax Hub — 多模态创作 Agent，你的AI创作工作室 | MM Hub](https://hub.minimaxi.com/)：8月8日前免费体验3次
 
 ## GPT Image 2 封面设计
 
