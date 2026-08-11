@@ -1,4 +1,7 @@
-# Awesome-Images-Prompts
+# Awesome-AI-Images-Prompts
+
+- [国内购买 ChatGPT Plus 使用 GPT Image 2 进行 AI 图片创作](https://ios.wwkejishe.top/chatgpt-image-2.html)
+
 适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512、Seedance 2.0、GPT-Image-2、MiniMax H3 等AI生图大模型的提示词
 
 |          | GPT-Image-2 | Nano Banana Pro/2 | Nano-banana | Seedance 2.0 | 即梦 | MiniMax H3 | 豆包 Seedream 4.0 | Hunyuan 3.0 | ChatGPT-4o | Qwen-Image-2512 | Wan2.7  Image |
@@ -1387,7 +1390,7 @@ Snowy pine forest outside window, soft Christmas lights glowing on trees, mornin
 
 来源：[10 Stunning Fake Window Projector Ideas Created With AI Art Generators](https://imini.com/zh/blogs/10-stunning-fake-window-projector-ideas)
 
-### 生日涂鸦照片
+### 生日快乐涂鸦贺卡照片
 
 - 注意：**文字可根据自己需求适量修改**
 
