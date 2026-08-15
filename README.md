@@ -34,6 +34,7 @@
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
 - [MeiGen - Free GPT Image 2 & Nano Banana Prompts Gallery](https://www.meigen.ai/)：每日 20 积分（已支持 GPT Image 2）
+- [Eimu](https://eimu.art)：在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，不用中转站、不用申请 API Key
 
 ### API 开发使用
 
