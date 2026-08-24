@@ -65,7 +65,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 3. [YouMind-OpenLab/awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2): 🚀 Curated GPT Image 2 prompt library — OpenAI's next-gen image model with pixel-perfect text rendering, cross-image consistency, and commercial-grade illustration. 16 languages. Free & open source.
 4. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2/tree/main): Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
 5. [wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill)：OpenAI GPT Image 2 Prompt Gallery、Image Prompt Library、Agentic Skill + CLI — 面向支持 Skill 的 Agent 运行时的精选可复用提示词与可运行示例。目前收录了科研配图、海报设计、UI Mockup、游戏 HUD、动漫 / 漫画、摄影风格、字体设计、地图导航、纹身设计，以及参考图编辑等 AI image prompts / examples。
-6. [useneospark/awesome-gpt-image-2](https://github.com/useneospark/awesome-gpt-image-2)：**全球最大的 GPT Image 2 提示词精选合集。**为创作者、营销人员和设计师精心挑选、测试和整理。
+6. [useneospark/awesome-gpt-image-2](https://github.com/useneospark/awesome-gpt-image-2)： **全球最大的 GPT Image 2 提示词精选合集。** 为创作者、营销人员和设计师精心挑选、测试和整理。
 
 ### Gemini Nano Banana Pro
 
