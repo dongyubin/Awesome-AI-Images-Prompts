@@ -1,6 +1,6 @@
 # Awesome-AI-Images-Prompts
 
-- [国内购买 ChatGPT Plus 使用 GPT Image 2 进行 AI 图片创作](https://ios.wwkejishe.top/chatgpt-image-2.html)
+- [ChatGPT Plus 官方介绍与订阅方式](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)
 
 适用于 Awesome Gemini Nano-banana Pro/2 Image（纳米香蕉🍌）、即梦、豆包 Seedream 4.0、Hunyuan 3.0、ChatGPT-4o、Grok Image、FLUX、Ideogram、Imagen、Leonardo Ai、Midjourney、Qwen-Image-2512、Seedance 2.0、GPT-Image-2、MiniMax H3 等AI生图大模型的提示词
 
