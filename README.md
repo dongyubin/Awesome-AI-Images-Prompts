@@ -1866,7 +1866,7 @@ Nano Banana Pro 支持原生 1K 至 4K 图像生成。这对于处理精细纹�
 
 ### 8. 思考与推理
 
-Nano Banana Pro 默认采用“思考”模式，它会生成一些中间的思考图像（不计费），以便在渲染最终输出之前优化构图。这有助于进行数据分析和解决视觉问题。
+Nano Banana Pro 默认会进行“思考”过程，在最终生成前优化构图。在 Gemini API 中，思考 token 默认计费；具体额度和费用取决于所用产品与 API。详见 [Google Gemini API 图像生成文档](https://ai.google.dev/gemini-api/docs/image-generation)。
 
 举个例子：
 
