@@ -132,7 +132,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ### MiniMax H3
 
-- [MiniMax Hub — 多模态创作 Agent，你的AI创作工作室 | MM Hub](https://hub.minimaxi.com/)：8月8日前免费体验3次
+- [MiniMax Design — 多模态创作 Agent，你的AI创作工作室](https://hub.minimaxi.com/)：可用功能、体验额度和收费规则以平台当前页面为准
 
 ## GPT Image 2 封面设计
 
