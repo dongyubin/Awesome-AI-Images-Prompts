@@ -1172,7 +1172,7 @@ a dreamy top-down film photograph of a young beautiful East Asian woman lying on
 
 ### 3D chibli style kawaii sticker（3D 千纸鹤风格卡哇伊贴纸）
 
-[Shreya Yadav 作者原贴](https://x.com/ShreyaYadav___/status/1985738257708302430)
+来源：Shreya Yadav（X 原帖返回 404）
 
 - 使用 AI 模型：ChatGPT
 
