@@ -1500,12 +1500,12 @@ Create a festive outdoor Christmas portrait of a woman standing beside a large S
 ```
 
 ```markdown
-创作一幅充满节日气氛的户外圣诞肖像画，画中一位女士站在一个巨大的圣诞老人旁边，面部特征与参考图片完全一致。她身穿一件金色亮片长裙，裙摆侧边开衩至小腿，优雅迷人。她卷曲的秀发柔顺地披散在一侧肩头，脸上带着温暖的笑容，手中拿着一份礼物。画面中还有一棵装饰精美的圣诞树，上面挂满了饰品、花环和闪烁的彩灯。几只白兔在堆叠的礼盒周围嬉戏玩耍，更添节日的梦幻氛围。
+创作一张超逼真、电影感的室内全身圣诞肖像。一位女士自然地站着，面部特征与参考图像保持一致。她身穿深红色优雅长裙，配短款泡泡袖、细金色腰带和简洁的金色高跟鞋。她神情愉悦，笑容温柔自信。场景设在温馨的圣诞主题客厅，装饰有圣诞树、墙面花环、彩灯，以及摆着节日靠垫的米色沙发。温暖的金色环境光、浅景深、电影感散景、细腻的皮肤纹理和4K细节共同营造节日氛围。
 ```
 
 ### Cinematic Christmas Living Room Portrait
 
-优雅的圣诞礼物肖像
+电影般的圣诞客厅肖像
 
 ```markdown
 Create an ultra-realistic, cinematic full-body indoor portrait of a woman standing casually, keeping her face exactly the same as the reference image. She wears a deep red elegant full-length dress with short puff sleeves, a thin golden waist belt, and sleek golden heels. Her expression is cheerful with a gentle, confident smile. The setting is a cozy Christmas-themed living room with a decorated tree, wall wreath, fairy lights, and a beige sofa with festive cushions. Warm golden ambient lighting, shallow depth of field, cinematic bokeh, 4K ultra-detail, and realistic skin texture complete the festive holiday mood.
@@ -1517,26 +1517,26 @@ Create an ultra-realistic, cinematic full-body indoor portrait of a woman standi
 
 ### Golden Christmas Celebration Portrait
 
-电影般的圣诞客厅肖像
+金色圣诞庆典肖像
 
 ```
 A photorealistic full-body shot of a smiling young woman with long dark hair in a pony tail, wearing a shimmering gold knee-length dress and gold heels, standing in front of a beautifully lit Christmas tree. She is holding a small white plate with a slice of cake and eating a bite, looking directly at the camera with joy. The background features warm, glowing fairy lights, gold and red ornaments on the tree, and wrapped red gift boxes on the floor, creating a cozy and luxurious holiday atmosphere. Don't change the face, make sure the face is the same.
 ```
 
 ```markdown
-创作一张超逼真、电影级的室内全身肖像，描绘一位姿态自然的女性，面部特征与参考图像完全一致。她身着深红色优雅长裙，短款泡泡袖，搭配金色细腰带和金色高跟鞋。她神情愉悦，笑容温柔自信。场景设定在一个温馨的圣诞主题客厅，装饰着圣诞树、花环、彩灯和米色沙发，沙发上摆放着节日主题的靠垫。温暖的金色环境光、浅景深、电影级散景、4K超高清细节和逼真的皮肤纹理，共同营造出浓厚的节日氛围。
+一张写实风格的全身照：一位面带笑容的年轻女子，留着深色马尾，身穿闪亮的金色及膝连衣裙和金色高跟鞋，站在灯光璀璨的圣诞树前。她手持白色小盘，盘中有一块蛋糕；她正吃下一口，并愉快地看向镜头。背景有温暖闪烁的彩灯、圣诞树上的金红色装饰，以及地上的红色礼盒，营造温馨华丽的节日氛围。请保持人物面部特征不变。
 ```
 
 ### Elegant Christmas Indoor Portrait
 
-金色圣诞庆典肖像
+优雅的圣诞室内肖像
 
 ```
 A photorealistic full-body shot of a smiling young woman with long wavy dark hair, wearing an elegant maroon maxi dress with short puff sleeves and a thin gold belt, paired with gold heels. She stands confidently with one hand on her hip in a cozy living room decorated for Christmas. To her left is a glowing Christmas tree with ornaments and wrapped gifts, and behind her is a beige sofa with festive pillows and a wall adorned with string lights and a wreath. The lighting is warm and inviting, capturing a cheerful holiday atmosphere. Don't change the face, make sure the face is the same.
 ```
 
 ```markdown
-一张逼真的全身照，照片中一位面带微笑的年轻女子，长长的黑发扎成马尾辫，身穿闪亮的金色及膝连衣裙和金色高跟鞋，站在一棵灯光璀璨的圣诞树前。她手捧一小碟白色蛋糕，正津津有味地吃着，脸上洋溢着喜悦，直视着镜头。背景中点缀着温暖闪烁的彩灯，圣诞树上挂满了金色和红色的装饰品，地板上散落着包装精美的红色礼盒，营造出温馨奢华的节日氛围。请勿更改面部，务必确保面部特征保持一致。
+一张写实风格的全身照：一位面带笑容的年轻女子留着深色波浪长发，身穿优雅的栗红色长裙，配短款泡泡袖、细金色腰带和金色高跟鞋。她自信地站在布置好的圣诞客厅中，一只手叉腰。她左侧有一棵亮着灯的圣诞树和包装好的礼物，身后是摆着节日靠垫的米色沙发，墙上装饰着串灯和花环。温暖宜人的灯光烘托出欢快的节日气氛。请保持人物面部特征不变。
 ```
 
 ### Cinematic Christmas Living Room Portrait
