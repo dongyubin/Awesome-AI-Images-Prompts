@@ -87,7 +87,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 15. [Nano Banana 图片生成  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/image-generation?hl=zh-cn&authuser=2)：官方文档
 16. [Nano Banana Prompts Gallery - Free AI Image Prompts for Gemini | LocalBanana](https://www.localbanana.io/)
 17. [AI Prompt – TiHUBB 时光栈](https://tihubb.com/ai-prompt/)
-18. [Free Image Prompt Library for ChatGPT, Midjourney, Nano Banana | PromptWall](https://www.chatgptimage.art/)
+18. [Free Image Prompt Library for ChatGPT, Midjourney, Nano Banana | PromptWall](https://chatgptimage.art/)
 19. [Nano Banana Prompt Library - 100+ Expert-Curated AI Prompt Examples](https://nanobanana-showcase.com/)
 20. [Nano Banana Prompt Examples - AI Image Generation Techniques](https://nanobananaart.net/prompts)
 21. [40+ Nano Banana Pro Prompts (Copy & Paste) for Gemini](https://www.fotor.com/blog/nano-banana-model-prompts/)：热门风格合集
