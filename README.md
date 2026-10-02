@@ -52,7 +52,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ## AI生图提示词使用教程
 
-1. [⁤﻿‌‍⁤﻿‌⁢⁣‌‍‬⁢⁤⁡⁤⁡‌⁢‬⁣‬‌‌⁣‍‍‌‌⁤⁣﻿‌⁣‍⁢⁡⁢⁣⁡‌‌豆包 Seedream 4.0 使用指南 - 飞书云文档](https://bytedance.larkoffice.com/docx/XwngdqdhIowfF8xhEA4cwpS2nLb)
+1. [豆包 Seedream 4.0 使用指南 - 飞书云文档](https://bytedance.larkoffice.com/docx/XwngdqdhIowfF8xhEA4cwpS2nLb)
 
 ## AI生图提示词仓库
 
@@ -82,8 +82,8 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 10. [Nano Banana Pro 提示词宝库 | 高质量 AI 绘画提示词](https://nanobanana.pixtoai.com/)
 11. [AiWind - AI Prompt Library](https://www.aiwind.org/)：1000+个提示词
 12. [Nano Banana Prompt Gallery - Nano Banana Prompt](https://nanobananaprompt.org/prompts/)
-13. [‍⁡‍‍⁤‍⁡⁢﻿﻿‍‍‌‬⁤‍‌‌⁢⁡⁣‬‬⁣‍‍⁤⁡⁡‌﻿⁢‌⁤﻿﻿⁤⁢⁡‌⁢⁢⁡‬⁡⁡【教程】Nano Banana Pro超强玩法全盘点-Xuan酱-1125 - 飞书云文档](https://my.feishu.cn/docx/IKO3dWCeyobZ5CxWE18cV40xnth)
-14. [‌⁤‌⁤⁢⁣⁣⁤‬‬‌⁣⁣﻿⁢⁢﻿‍‬⁡‌‌‬﻿‌⁤⁡⁣‍‬⁣﻿⁡⁡⁤‍⁡⁣⁤‌‬⁡‬⁤Nano Banana Pro玩法大全+免费入口汇总 - 飞书云文档](https://my.feishu.cn/wiki/RJ4RwiI0BiFiwnkk9DBcLaasnJh)
+13. [【教程】Nano Banana Pro超强玩法全盘点-Xuan酱-1125 - 飞书云文档](https://my.feishu.cn/docx/IKO3dWCeyobZ5CxWE18cV40xnth)
+14. [Nano Banana Pro玩法大全+免费入口汇总 - 飞书云文档](https://my.feishu.cn/wiki/RJ4RwiI0BiFiwnkk9DBcLaasnJh)
 15. [Nano Banana 图片生成  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/image-generation?hl=zh-cn&authuser=2)：官方文档
 16. [Nano Banana Prompts Gallery - Free AI Image Prompts for Gemini | LocalBanana](https://www.localbanana.io/)
 17. [AI Prompt – TiHUBB 时光栈](https://tihubb.com/ai-prompt/)
