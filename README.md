@@ -69,7 +69,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 ### Gemini Nano Banana Pro
 
-1. [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker): : 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0+，可选择本地安装抢先体验新功能]
+1. [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker): 🍌 Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [Chrome Web Store 扩展，支持 Gemini、Google AI Studio 和任意网页输入框]
 2. [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts): 🍌 500+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 3. [Nano Banana Pro提示词图库 | AI图片提示词案例 | OpenNana](https://opennana.com/awesome-prompt-gallery)：1300+个提示词,🍌Nano Banana - nanobanana, gpt4o, chatgpt 提示词案例库
 4. [ZHO-ZHO-ZHO/ZHO-nano-banana-Creatio](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)：nano-banana 创意玩法大合集！
