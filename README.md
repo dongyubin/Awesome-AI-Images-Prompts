@@ -1104,6 +1104,7 @@ a dreamy top-down film photograph of a young beautiful East Asian woman lying on
 ### 超写实哥特式兔子工作室肖像
 
 ```
+{
 "prompt_title": "Hyperrealistic Gothic Bunny Studio Portrait",
 "image_description": "An ultra-photorealistic, high-resolution studio portrait of a female subject in a gothic-inspired bunny costume, featuring intricate lace ears, a structured corset, and delicate hosiery. The subject is posed on the floor, exuding an alluring and sophisticated aura under precise studio lighting.",
 "subject": {
@@ -1213,8 +1214,7 @@ Negative Prompt: distorted text, blur, watermark, overexposure, bad anatomy
       "framing": "extreme close-up (ECU), tight framing on the face and shoulders",
       "lens_behavior": "portrait lens (e.g., 85mm prime), extremely shallow depth of field (DoF), sharp focus on the eyes",
       "sensor_quality": "high fidelity, no digital noise"
-    }
-  },
+    },
   "scene": {
     "environment": {
       "setting": "indoor studio or simple interior",
