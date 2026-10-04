@@ -92,6 +92,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 20. [Nano Banana Prompt Examples - AI Image Generation Techniques](https://nanobananaart.net/prompts)
 21. [40+ Nano Banana Pro Prompts (Copy & Paste) for Gemini](https://www.fotor.com/blog/nano-banana-model-prompts/)：热门风格合集
 22. [AI Prompt Nav - Discover the Best AI Prompts & Tools](https://www.aipromptnav.com/)：发现最好的 AI 提示词 与工具，精选 Nano Banana, Midjourney, Stable Diffusion 等高质量提示词库。
+23. [PicGens - 免费 AI 生图提示词图库](https://www.picgens.com/models/nano-banana)（[中文指南](https://www.picgens.com/zh/nano-banana)）：约 3,700 条公开分享的提示词，每张卡片展示真实生成图和创作者分享的原始提示词，标注模型（Nano Banana / Nano Banana Pro、GPT Image 2、Midjourney、Seedream 等），附作者署名与原帖链接；可按模型、用途、颜色筛选，一键复制，无需注册。
 
 ### GPT-4o
 
