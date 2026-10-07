@@ -1450,7 +1450,7 @@ Snowy pine forest outside window, soft Christmas lights glowing on trees, mornin
 色彩搭配:主色为白色手绘线条，点缀色为柔和黄色、粉色、浅蓝色高光，强调色为黄色/粉色(用于部分文字)。整体氛围:轻松、温馨、欢庆，符合小红书/Instagram风格生日帖子美学，且必须是真实手写涂鸦风格，非电脑字体。
 ```
 
-![生日涂鸦照片效果图](images\08.png)
+![生日涂鸦照片效果图](images/08.png)
 
 来源：[X](https://x.com/_miju_9/status/2012467980408692975)
 
