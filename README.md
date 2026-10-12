@@ -40,6 +40,7 @@
 - [Kie](https://kie.ai?ref=1b87846a567f5c45eced7acdc284af99)：支持AI视频（Seedance 2.0）、AI生图（Nano Banana Pro、GPT Image 2等生图大模型）、AI音乐（Suno）、LLM AI 聊天
 - [HiAPI](https://www.hiapi.ai/invite/yQe7)：支持调 GPT Image、Seedance 这些图像/视频模型，一个 API key 全搞定，还有在线 Playground 能直接试
 - [ToAPIs](https://toapis.com/login?aff=IuQP)
+- [Nano Banana Live](https://nano-banana.live/)：英文指南，讲 Nano Banana 能否本地/离线运行，对比官方云端 API 与开源权重生图模型，附硬件规划和部署步骤
 
 ## ChatGPT Image 2.0 体验地址
 
