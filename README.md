@@ -71,6 +71,10 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 
 - [Chang-Hai/awesome-gpt-image-2.5-prompts](https://github.com/Chang-Hai/awesome-gpt-image-2.5-prompts)：87 条提示词，配套 ImgKick 实际出图、实测提示词、参数与参考图；提供中英文说明、JSON 数据及逐来源署名和许可说明，也记录效果局限。
 
+### GPT Image 2.6
+
+- [AgentCraft GPT Image 2.6 提示词](https://agentcraft.dev/en/prompts/image/gpt-image-2-6/)（[中文版](https://agentcraft.dev/zh/prompts/image/gpt-image-2-6/)）：64 条 GPT Image 2.6 提示词，原样摘自 OpenAI 官方提示词指南和创作者在 X 上的帖子，每条附生成的图片或 GIF 动图，并链到出处；页首对比 Flare、Sunburst 两个 API 模型的速度和价格。免费，免注册。
+
 ### Gemini Nano Banana Pro
 
 1. [glidea/banana-prompt-quicker](https://github.com/glidea/banana-prompt-quicker): : 🍌Awesome Prompts; Nano Banana；Banana Pro; Gemini；AI Studio；Prompt Quickly [商店版本 1.3.0，最新版本 1.4.0+，可选择本地安装抢先体验新功能]
