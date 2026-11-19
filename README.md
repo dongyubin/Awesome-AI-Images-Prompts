@@ -34,6 +34,7 @@
 - [Youmind](https://youmind.com/invite/6JGI8C)：新用户赠送 200 积分
 - [椒图AI](https://www.jiaotuai.cn/?invite=667Q6)：新用户赠送 100 积分
 - [MeiGen - Free GPT Image 2 & Nano Banana Prompts Gallery](https://www.meigen.ai/)：每日 20 积分（已支持 GPT Image 2）
+- [Raphael AI](https://raphael.app/)：网页端多模型 AI 生图与视频创作平台，免注册即可开始体验，免费账号提供无限次标准生图与每日免费 AI 视频（已支持 Nano Banana 2/Pro、GPT Image 2、Seedream 5、Seedance 2、Veo 3.1、Kling 3 等）
 
 ### API 开发使用
 
