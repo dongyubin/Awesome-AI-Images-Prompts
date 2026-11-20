@@ -132,6 +132,7 @@ GPT Image 2 (also known as GPT-Image-2 or Image V2) is OpenAI's next-generation 
 - [Seedance 2.0 提示词 - 高信噪比 AI 视频提示词库](https://youmind.com/zh-CN/seedance-2-0-prompts)（使用 [此链接注册Youmind](https://youmind.com/invite/6JGI8C) 赠送 200 积分）
 - [Seedance 2.0 Prompts - 高质量AI视频生成提示词与示例 - Atlas Cloud](https://www.atlascloud.ai/zh/seedance-2-prompt)（使用[此链接注册](https://www.atlascloud.ai?ref=GBD3AQ)充值可获取优惠）
 - [liangdabiao/make-prompt-seedance2](https://github.com/liangdabiao/make-prompt-seedance2): 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。seedance2结构化提示语，整合了 Seedance 2.0（字节跳动 AI 视频生成模型）的结构化提示词使用方法，帮助用户快速上手并创作出高质量的视频内容。包含 16+ 个模板和 8+ 个示例 | 带货广告| TVC广告
+- [Twistavo: faceless history video prompts](https://twistavo.com/prompts/faceless-history-video): Seedance 2.0 text-to-video prompts for 3 shots (10 s, 9:16, 720p) and Seedream 5.0 Pro prompts for 2 stills, with the output of each shot.
 
 ## MiniMax H3
 
